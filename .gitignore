@@ -1,0 +1,36 @@
+# Local credentials and machine files
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Downloaded datasets, model weights, and recovery state
+data/
+datasets/
+ATML-PA3-Data/
+checkpoints/
+models/
+cache/
+.cache/
+wandb/
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Temporary outputs; keep small machine-readable results tracked
+tmp/
+*.log
