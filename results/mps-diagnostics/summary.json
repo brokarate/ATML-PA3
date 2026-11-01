@@ -1,0 +1,34 @@
+{
+  "status": "finished",
+  "torch": "2.9.1",
+  "python": "/opt/anaconda3/bin/python",
+  "cases": [
+    {
+      "case": "optimizer",
+      "log": "/Users/khan/Desktop/LUMS/Sem 5/ATML/PAs/PA3/results/mps-diagnostics/optimizer.log",
+      "returncode": 0,
+      "status": "completed",
+      "seconds": 3.4102413329528645
+    },
+    {
+      "case": "fixed",
+      "log": "/Users/khan/Desktop/LUMS/Sem 5/ATML/PAs/PA3/results/mps-diagnostics/fixed.log",
+      "status": "timeout",
+      "seconds": 603.2654143340187
+    },
+    {
+      "case": "fixed-input",
+      "log": "/Users/khan/Desktop/LUMS/Sem 5/ATML/PAs/PA3/results/mps-diagnostics/fixed-input.log",
+      "status": "timeout",
+      "seconds": 600.3385967499344
+    },
+    {
+      "case": "dynamic",
+      "log": "/Users/khan/Desktop/LUMS/Sem 5/ATML/PAs/PA3/results/mps-diagnostics/dynamic.log",
+      "returncode": 1,
+      "status": "stopped",
+      "seconds": 37.59083300002385
+    }
+  ],
+  "note": "Diagnostic runs only; no assignment checkpoints are created."
+}

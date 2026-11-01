@@ -1,0 +1,58 @@
+{
+  "method": "lora16",
+  "checks": [
+    {
+      "step": 312,
+      "metadata": true,
+      "all_prescribed_targets": true,
+      "rank16_alpha32": true,
+      "only_392_finite_fp32_adapter_tensors": true,
+      "parameter_count": true,
+      "export_exact": true,
+      "optimizer_steps_and_finite_fp32_moments": true,
+      "optimizer_hyperparameters": true,
+      "complete_recovery_state": true
+    },
+    {
+      "step": 625,
+      "metadata": true,
+      "all_prescribed_targets": true,
+      "rank16_alpha32": true,
+      "only_392_finite_fp32_adapter_tensors": true,
+      "parameter_count": true,
+      "export_exact": true,
+      "optimizer_steps_and_finite_fp32_moments": true,
+      "optimizer_hyperparameters": true,
+      "complete_recovery_state": true
+    },
+    {
+      "step": 937,
+      "metadata": true,
+      "all_prescribed_targets": true,
+      "rank16_alpha32": true,
+      "only_392_finite_fp32_adapter_tensors": true,
+      "parameter_count": true,
+      "export_exact": true,
+      "optimizer_steps_and_finite_fp32_moments": true,
+      "optimizer_hyperparameters": true,
+      "complete_recovery_state": true
+    },
+    {
+      "step": 1250,
+      "metadata": true,
+      "all_prescribed_targets": true,
+      "rank16_alpha32": true,
+      "only_392_finite_fp32_adapter_tensors": true,
+      "parameter_count": true,
+      "export_exact": true,
+      "optimizer_steps_and_finite_fp32_moments": true,
+      "optimizer_hyperparameters": true,
+      "complete_recovery_state": true
+    }
+  ],
+  "all_checkpoints_pass": true,
+  "logged_updates": 1250,
+  "skipped_updates": 0,
+  "runtime_seconds": 35538.388581292005,
+  "benchmark_evaluated": false
+}

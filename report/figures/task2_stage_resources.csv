@@ -1,0 +1,4 @@
+stage,end_update,stage_seconds,cumulative_seconds,trainable_parameters,cumulative_peak_gpu_bytes,cumulative_peak_gpu_driver_bytes,memory_scope,stage_peak_gpu_bytes,stage_peak_gpu_driver_bytes,stage_memory_complete
+1,2250,14596.97704729205,14596.97704729205,1837056,6252851968,32846692352,run-to-date sampled peak; not an isolated stage peak,6252851968,32846692352,True
+2,3750,18532.512951833196,33129.489999125246,6424576,6252851968,32846692352,run-to-date sampled peak; not an isolated stage peak,5954352896,32529973248,True
+3,4500,5210.648856957909,38340.138856083155,6424576,6252851968,32846692352,run-to-date sampled peak; not an isolated stage peak,5729143296,32697155584,True

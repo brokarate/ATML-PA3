@@ -1,0 +1,43 @@
+{
+  "updates": 1250,
+  "examples": 40000,
+  "skipped_updates": 0,
+  "finite_logs": true,
+  "first50_mean_loss": 0.4075299666170031,
+  "last50_mean_loss": 0.19992917703231797,
+  "final_loss": 0.17989512090571225,
+  "training_seconds": 36497.748616041965,
+  "runtime": "10:08:18",
+  "trainable_parameters": 10092544,
+  "checkpoints": [
+    {
+      "step": 312,
+      "finite": true,
+      "optimizer_steps_correct": true,
+      "export_max_relative_difference_cpu_recompute": 4.1828528196674597e-07,
+      "max_relative_projection_residual": 7.428050707858347e-07
+    },
+    {
+      "step": 625,
+      "finite": true,
+      "optimizer_steps_correct": true,
+      "export_max_relative_difference_cpu_recompute": 3.805211292728927e-07,
+      "max_relative_projection_residual": 6.991708687564824e-07
+    },
+    {
+      "step": 937,
+      "finite": true,
+      "optimizer_steps_correct": true,
+      "export_max_relative_difference_cpu_recompute": 4.022934945169254e-07,
+      "max_relative_projection_residual": 6.845900770713342e-07
+    },
+    {
+      "step": 1250,
+      "finite": true,
+      "optimizer_steps_correct": true,
+      "export_max_relative_difference_cpu_recompute": 3.9116852690312953e-07,
+      "max_relative_projection_residual": 6.895097612868994e-07
+    }
+  ],
+  "benchmark_accuracy_evaluated": false
+}

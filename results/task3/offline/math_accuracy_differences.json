@@ -1,0 +1,362 @@
+[
+  {
+    "budget": 1,
+    "method": "first",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "first",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": 0.014624999999999999,
+    "ci95": [
+      0.008,
+      0.021378124999999998
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": 0.024,
+    "ci95": [
+      0.01725,
+      0.031131249999999996
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.024,
+    "ci95": [
+      0.01725,
+      0.031131249999999996
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": 0.009125,
+    "ci95": [
+      0.0021250000000000006,
+      0.01575
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "first",
+    "reference": "consensus",
+    "mean": -0.048625,
+    "ci95": [
+      -0.05675312500000001,
+      -0.040871875
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": -0.019625,
+    "ci95": [
+      -0.028503125,
+      -0.010871875000000001
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": -0.004625000000000001,
+    "ci95": [
+      -0.01325,
+      0.004378124999999998
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.004875,
+    "ci95": [
+      -0.001374999999999999,
+      0.012
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": -0.040374999999999994,
+    "ci95": [
+      -0.051125,
+      -0.030125000000000002
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "first",
+    "reference": "consensus",
+    "mean": -0.074375,
+    "ci95": [
+      -0.085134375,
+      -0.06337187500000001
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": -0.04237500000000001,
+    "ci95": [
+      -0.05550000000000001,
+      -0.029493750000000006
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": -0.016625000000000004,
+    "ci95": [
+      -0.028753125,
+      -0.004875000000000003
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.010875,
+    "ci95": [
+      0.004999999999999999,
+      0.016753124999999997
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": -0.0725,
+    "ci95": [
+      -0.087878125,
+      -0.057371874999999996
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "first",
+    "reference": "consensus",
+    "mean": -0.087625,
+    "ci95": [
+      -0.10100312500000001,
+      -0.074871875
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": -0.066875,
+    "ci95": [
+      -0.08475312500000001,
+      -0.049621875
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": -0.024499999999999997,
+    "ci95": [
+      -0.041378125,
+      -0.009125
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.014875000000000001,
+    "ci95": [
+      0.008121875,
+      0.021503125
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": -0.1,
+    "ci95": [
+      -0.12025000000000001,
+      -0.08187187500000001
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "first",
+    "reference": "consensus",
+    "mean": -0.094375,
+    "ci95": [
+      -0.11012499999999999,
+      -0.07975
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": -0.0975,
+    "ci95": [
+      -0.1235,
+      -0.073371875
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": -0.0325,
+    "ci95": [
+      -0.056375,
+      -0.009250000000000001
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.017124999999999998,
+    "ci95": [
+      0.00636875,
+      0.028378125
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": -0.115,
+    "ci95": [
+      -0.14175625000000003,
+      -0.09049062500000002
+    ]
+  }
+]

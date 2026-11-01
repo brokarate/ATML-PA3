@@ -1,0 +1,32 @@
+{
+  "source_hashes_match": true,
+  "math_verify_comparison_timeout_seconds": 5,
+  "timeout_policy": "Upstream math-verify 0.8.0 default: a timed-out comparison attempt returns False; other extraction fallbacks can still be tried. No rollout rows are dropped. Individual preparation timeout cases were not saved.",
+  "datasets": {
+    "math": {
+      "rows": 32000,
+      "questions": 1000,
+      "rollouts_per_question": 32,
+      "retained_tokens": 20742094,
+      "capped_rollouts": 523,
+      "normalized_missing_answers": 521,
+      "splits_match_seed_6304": true,
+      "ten_orders_match_seed_6304": true,
+      "original_token_measurements_preserved_exactly": true,
+      "labels_separate_from_selector_inputs": true
+    },
+    "mathvista": {
+      "rows": 32000,
+      "questions": 1000,
+      "rollouts_per_question": 32,
+      "retained_tokens": 8961703,
+      "capped_rollouts": 487,
+      "normalized_missing_answers": 4921,
+      "splits_match_seed_6304": true,
+      "ten_orders_match_seed_6304": true,
+      "original_token_measurements_preserved_exactly": true,
+      "labels_separate_from_selector_inputs": true
+    }
+  },
+  "preparation_complete": true
+}

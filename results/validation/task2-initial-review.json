@@ -1,0 +1,22 @@
+{
+  "cached_images": 83210,
+  "missing": 0,
+  "distinct_file_sizes": [
+    302399,
+    302470,
+    302541,
+    302548,
+    302555,
+    302562
+  ],
+  "sampled_feature_checks": 128,
+  "sample_shape": [
+    196,
+    768
+  ],
+  "sample_dtype": "float16",
+  "sample_all_finite": true,
+  "cache_seconds": 1277.9865938749863,
+  "training_updates_completed": 0,
+  "failure": "Initial connector gradient assertion; original log does not distinguish zero and nonfinite gradients"
+}

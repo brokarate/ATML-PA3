@@ -1,0 +1,980 @@
+{
+  "status": "completed",
+  "shape": "bucketed",
+  "measurements": [
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 1,
+      "live_bytes": 2647426816,
+      "driver_bytes": 5023563776
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 1,
+      "live_bytes": 6103873536,
+      "driver_bytes": 7423328256
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 2,
+      "live_bytes": 6367100672,
+      "driver_bytes": 9570861056
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 2,
+      "live_bytes": 6103873536,
+      "driver_bytes": 7444365312
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 3,
+      "live_bytes": 6367104768,
+      "driver_bytes": 9570926592
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 3,
+      "live_bytes": 6103873536,
+      "driver_bytes": 7450722304
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 4,
+      "live_bytes": 6367100160,
+      "driver_bytes": 9570992128
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 4,
+      "live_bytes": 6103873536,
+      "driver_bytes": 7427719168
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 5,
+      "live_bytes": 6351308544,
+      "driver_bytes": 9573154816
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 5,
+      "live_bytes": 6103873536,
+      "driver_bytes": 7425687552
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 6,
+      "live_bytes": 6367105792,
+      "driver_bytes": 9571123200
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 6,
+      "live_bytes": 6103873536,
+      "driver_bytes": 7482376192
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 7,
+      "live_bytes": 6367102720,
+      "driver_bytes": 9571188736
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 7,
+      "live_bytes": 6103873536,
+      "driver_bytes": 7448887296
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 8,
+      "live_bytes": 6350955776,
+      "driver_bytes": 9571254272
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 8,
+      "live_bytes": 6103873536,
+      "driver_bytes": 7423787008
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 9,
+      "live_bytes": 6351363328,
+      "driver_bytes": 9571319808
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 9,
+      "live_bytes": 6103873536,
+      "driver_bytes": 7501447168
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 10,
+      "live_bytes": 6367101696,
+      "driver_bytes": 9648979968
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 10,
+      "live_bytes": 6103873536,
+      "driver_bytes": 7501512704
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 11,
+      "live_bytes": 6583940096,
+      "driver_bytes": 11796611072
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 11,
+      "live_bytes": 6103873536,
+      "driver_bytes": 8124055552
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 12,
+      "live_bytes": 6367100160,
+      "driver_bytes": 10271588352
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 12,
+      "live_bytes": 6103873536,
+      "driver_bytes": 8153481216
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 13,
+      "live_bytes": 6367102720,
+      "driver_bytes": 10223419392
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 13,
+      "live_bytes": 6103873536,
+      "driver_bytes": 8075952128
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 14,
+      "live_bytes": 6350894336,
+      "driver_bytes": 10223484928
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 14,
+      "live_bytes": 6103873536,
+      "driver_bytes": 8076017664
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 15,
+      "live_bytes": 6351013888,
+      "driver_bytes": 10194190336
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 15,
+      "live_bytes": 6103873536,
+      "driver_bytes": 8071888896
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 16,
+      "live_bytes": 6367100416,
+      "driver_bytes": 10219421696
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 16,
+      "live_bytes": 6103873536,
+      "driver_bytes": 8071954432
+    },
+    {
+      "phase": "optimizer",
+      "update": 1,
+      "microbatch": 16,
+      "live_bytes": 10872273920,
+      "driver_bytes": 12572672000
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 1,
+      "live_bytes": 7577931520,
+      "driver_bytes": 12547555328
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 1,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13216563200
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 2,
+      "live_bytes": 11087365376,
+      "driver_bytes": 15317958656
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 2,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13191446528
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 3,
+      "live_bytes": 11103484160,
+      "driver_bytes": 15318007808
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 3,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13195706368
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 4,
+      "live_bytes": 11103483136,
+      "driver_bytes": 15343239168
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 4,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13225132032
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 5,
+      "live_bytes": 11103482624,
+      "driver_bytes": 15318138880
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 5,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13214711808
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 6,
+      "live_bytes": 11103485952,
+      "driver_bytes": 15318204416
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 6,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13223165952
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 7,
+      "live_bytes": 11103480832,
+      "driver_bytes": 15370649600
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 7,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13223182336
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 8,
+      "live_bytes": 11103480576,
+      "driver_bytes": 15318237184
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 8,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13177061376
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 9,
+      "live_bytes": 11103481600,
+      "driver_bytes": 15318302720
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 9,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13240041472
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 10,
+      "live_bytes": 11103482112,
+      "driver_bytes": 15387574272
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 10,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13315604480
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 11,
+      "live_bytes": 11087653120,
+      "driver_bytes": 15471525888
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 11,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13235978240
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 12,
+      "live_bytes": 11103484672,
+      "driver_bytes": 15383511040
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 12,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13236043776
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 13,
+      "live_bytes": 11103484160,
+      "driver_bytes": 15318564864
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 13,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13238206464
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 14,
+      "live_bytes": 11103481600,
+      "driver_bytes": 15385739264
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 14,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13242466304
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 15,
+      "live_bytes": 11103483648,
+      "driver_bytes": 15389999104
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 15,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13175422976
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 16,
+      "live_bytes": 11087748608,
+      "driver_bytes": 15327150080
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 16,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13248888832
+    },
+    {
+      "phase": "optimizer",
+      "update": 2,
+      "microbatch": 16,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13248888832
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 1,
+      "live_bytes": 7547806208,
+      "driver_bytes": 12626083840
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 1,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13215383552
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 2,
+      "live_bytes": 11094527744,
+      "driver_bytes": 15362916352
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 2,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13215432704
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 3,
+      "live_bytes": 11094527488,
+      "driver_bytes": 15318925312
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 3,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13246955520
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 4,
+      "live_bytes": 11094525952,
+      "driver_bytes": 15394488320
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 4,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13247021056
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 5,
+      "live_bytes": 11094531072,
+      "driver_bytes": 15394553856
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 5,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13232406528
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 6,
+      "live_bytes": 11078365952,
+      "driver_bytes": 15319121920
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 6,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13171654656
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 7,
+      "live_bytes": 11078671104,
+      "driver_bytes": 15319187456
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 7,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13232537600
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 8,
+      "live_bytes": 11078575360,
+      "driver_bytes": 15319252992
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 8,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13217906688
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 9,
+      "live_bytes": 11094533120,
+      "driver_bytes": 15319302144
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 9,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13211680768
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 10,
+      "live_bytes": 11078709504,
+      "driver_bytes": 15319318528
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 10,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13236862976
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 11,
+      "live_bytes": 11094528768,
+      "driver_bytes": 15319384064
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 11,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13213859840
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 12,
+      "live_bytes": 11094530816,
+      "driver_bytes": 15319449600
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 12,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13247463424
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 13,
+      "live_bytes": 11094531072,
+      "driver_bytes": 15394996224
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 13,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13207683072
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 14,
+      "live_bytes": 11078400768,
+      "driver_bytes": 15319564288
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 14,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13190971392
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 15,
+      "live_bytes": 11094529536,
+      "driver_bytes": 15319629824
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 15,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13172162560
+    },
+    {
+      "phase": "forward",
+      "update": 3,
+      "microbatch": 16,
+      "live_bytes": 11078466560,
+      "driver_bytes": 15319695360
+    },
+    {
+      "phase": "backward",
+      "update": 3,
+      "microbatch": 16,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13201571840
+    },
+    {
+      "phase": "optimizer",
+      "update": 3,
+      "microbatch": 16,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13201702912
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 1,
+      "live_bytes": 7540363008,
+      "driver_bytes": 12549537792
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 1,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14323728384
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 2,
+      "live_bytes": 10994225408,
+      "driver_bytes": 15397519360
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 2,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14323777536
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 3,
+      "live_bytes": 11009978624,
+      "driver_bytes": 15397568512
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 3,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14290272256
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 4,
+      "live_bytes": 11009975040,
+      "driver_bytes": 15328362496
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 4,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14288191488
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 5,
+      "live_bytes": 11009981952,
+      "driver_bytes": 15328428032
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 5,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14254686208
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 6,
+      "live_bytes": 11009974016,
+      "driver_bytes": 15328477184
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 6,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14284111872
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 7,
+      "live_bytes": 11009978880,
+      "driver_bytes": 15328542720
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 7,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14294663168
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 8,
+      "live_bytes": 11009977344,
+      "driver_bytes": 15362162688
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 8,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14288437248
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 9,
+      "live_bytes": 10993945344,
+      "driver_bytes": 15362228224
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 9,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14288486400
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 10,
+      "live_bytes": 11009974272,
+      "driver_bytes": 15328722944
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 10,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14290649088
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 11,
+      "live_bytes": 11009977344,
+      "driver_bytes": 15364390912
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 11,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14290665472
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 12,
+      "live_bytes": 10994240000,
+      "driver_bytes": 15398010880
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 12,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14290714624
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 13,
+      "live_bytes": 11009978880,
+      "driver_bytes": 15328854016
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 13,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14284488704
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 14,
+      "live_bytes": 10994039552,
+      "driver_bytes": 15362424832
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 14,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14303379456
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 15,
+      "live_bytes": 11009974784,
+      "driver_bytes": 15362490368
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 15,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14303444992
+    },
+    {
+      "phase": "forward",
+      "update": 4,
+      "microbatch": 16,
+      "live_bytes": 11705324288,
+      "driver_bytes": 19624050688
+    },
+    {
+      "phase": "backward",
+      "update": 4,
+      "microbatch": 16,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14779170816
+    },
+    {
+      "phase": "optimizer",
+      "update": 4,
+      "microbatch": 16,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14779170816
+    }
+  ],
+  "updates": [
+    {
+      "update": 1,
+      "loss": 1.0278903730213642,
+      "seconds": 34.68458341690712,
+      "finite_grad_norm": true,
+      "skipped": false,
+      "phase": "optimizer",
+      "microbatch": 16,
+      "live_bytes": 10872273920,
+      "driver_bytes": 12572672000
+    },
+    {
+      "update": 2,
+      "loss": 0.9441675655543804,
+      "seconds": 32.56124574993737,
+      "finite_grad_norm": true,
+      "skipped": false,
+      "phase": "optimizer",
+      "microbatch": 16,
+      "live_bytes": 10840253952,
+      "driver_bytes": 13248888832
+    },
+    {
+      "update": 3,
+      "loss": 0.9834272377192974,
+      "seconds": 32.23858304193709,
+      "finite_grad_norm": true,
+      "skipped": false,
+      "phase": "optimizer",
+      "microbatch": 16,
+      "live_bytes": 10831300864,
+      "driver_bytes": 13201702912
+    },
+    {
+      "update": 4,
+      "loss": 0.7190866302698851,
+      "seconds": 46.932217707973905,
+      "finite_grad_norm": true,
+      "skipped": false,
+      "phase": "optimizer",
+      "microbatch": 16,
+      "live_bytes": 10746747648,
+      "driver_bytes": 14779170816
+    }
+  ],
+  "long_example_stress_indices": [
+    346,
+    550
+  ]
+}

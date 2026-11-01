@@ -1,0 +1,13 @@
+{
+  "captions_train2014.json": "dd8c9636dc11740f956e36728866ea0c4ebe4988dcbdc5e712b7c2267f152d12",
+  "v2_mscoco_train2014_complementary_pairs.json": "b1ac37a0bae6bd4d8073c98364f46e513647bdd6440199a2db025d45fdf9c37d",
+  "v2_OpenEnded_mscoco_val2014_questions.json": "f34d9c9909dea76700d361baddd63dd47b4494945097459b542d9fe840244811",
+  "v2_mscoco_train2014_annotations.json": "770d2d3980e7838d6186082e0ddeddd804014c390ae45a592e996d6baf841d92",
+  "v2_mscoco_val2014_annotations.json": "0564650e712b34c246e4ad142894692bf2e45dee8e9cc6ebb2cedbe85731c4bf",
+  "instances_train2014.json": "777ef504abfeba349930485bb32ecd5b6529129a3e010f7852e1437cb049b732",
+  "v2_OpenEnded_mscoco_train2014_questions.json": "cb671e77b52a86fc3722b2a0ffc456c8199240391bfd97eaf2d850448404845c",
+  "instances_val2014.json": "e1b4d1bc54906827b1a029981b1c77f2088bd4462569b7615db7929070c3ab47",
+  "captions_val2014.json": "7da4cc45cb76ee1642d163e846e1e0a33feffac2e841c9c426d585ea499165a4",
+  "v2_mscoco_val2014_complementary_pairs.json": "66d2dab90e7e905e2c9bf3448f3cd744e011fda33879e6109a04834f6e70c0bc",
+  "official_vqa_normalizer": "f08edfcad5be0112500993e245c706b6cb928eadebe203f89f838e5e0d04bec8"
+}

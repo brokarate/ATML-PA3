@@ -1,0 +1,15 @@
+{
+  "change": "Bounded native-scaler calibration in the real-model smoke check; actual training settings unchanged",
+  "command": "python -m pytest -q",
+  "passed": 25,
+  "skipped": 2,
+  "additional_regressions": [
+    "Initial overflow followed by verified finite parameter updates",
+    "Persistent overflow fails and preserves all attempt diagnostics"
+  ],
+  "files": {
+    "scripts/smoke.py": "2165cd05619517f27f355e558f1d3403c0e74c41256ce16f343aea7019f71128",
+    "tests/test_smoke_calibration.py": "4d0b753c50ed9e1578448c0f398c8a557f6f16b0e0901d4d6b6817285b90cea5"
+  },
+  "physical_real_model_retry_verified": false
+}

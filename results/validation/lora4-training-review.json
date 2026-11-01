@@ -1,0 +1,52 @@
+{
+  "method": "lora4",
+  "checkpoints": [
+    {
+      "step": 312,
+      "metadata_ok": true,
+      "196_projection_modules": true,
+      "rank4_scale2": true,
+      "adapter_only_fp32_finite": true,
+      "export_matches_checkpoint": true,
+      "optimizer_complete_finite": true,
+      "hyperparams_ok": true,
+      "resume_state_present": true
+    },
+    {
+      "step": 625,
+      "metadata_ok": true,
+      "196_projection_modules": true,
+      "rank4_scale2": true,
+      "adapter_only_fp32_finite": true,
+      "export_matches_checkpoint": true,
+      "optimizer_complete_finite": true,
+      "hyperparams_ok": true,
+      "resume_state_present": true
+    },
+    {
+      "step": 937,
+      "metadata_ok": true,
+      "196_projection_modules": true,
+      "rank4_scale2": true,
+      "adapter_only_fp32_finite": true,
+      "export_matches_checkpoint": true,
+      "optimizer_complete_finite": true,
+      "hyperparams_ok": true,
+      "resume_state_present": true
+    },
+    {
+      "step": 1250,
+      "metadata_ok": true,
+      "196_projection_modules": true,
+      "rank4_scale2": true,
+      "adapter_only_fp32_finite": true,
+      "export_matches_checkpoint": true,
+      "optimizer_complete_finite": true,
+      "hyperparams_ok": true,
+      "resume_state_present": true
+    }
+  ],
+  "training_sources_unchanged": true,
+  "benchmark_evaluated": false,
+  "training_seconds": 35291.48569775
+}

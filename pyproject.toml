@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "atml-pa3"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+  "torch==2.9.1", "transformers==4.57.1", "datasets==3.6.0",
+  "accelerate==1.11.0", "numpy>=1.26,<3", "pandas>=2.2,<3",
+  "pyarrow>=18", "scipy>=1.13", "matplotlib>=3.9", "PyYAML>=6",
+  "Pillow>=10", "lm-eval==0.4.9.1", "math-verify==0.8.0",
+  "sentencepiece>=0.2", "protobuf>=5", "pytest>=8"
+]
+
+[project.scripts]
+pa3 = "pa3.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["pa3*", "common*", "task1_finetuning*", "task2_vlm*", "task3_inference*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

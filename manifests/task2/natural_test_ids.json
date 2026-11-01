@@ -1,0 +1,1346 @@
+[
+  {
+    "pair_id": "vqa:50981000:454326000",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 50981,
+        "question_id": 50981000
+      },
+      {
+        "image_id": 454326,
+        "question_id": 454326000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:379402056:573149004",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 379402,
+        "question_id": 379402056
+      },
+      {
+        "image_id": 573149,
+        "question_id": 573149004
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:210457001:393809010",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 210457,
+        "question_id": 210457001
+      },
+      {
+        "image_id": 393809,
+        "question_id": 393809010
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:12153027:289152006",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 12153,
+        "question_id": 12153027
+      },
+      {
+        "image_id": 289152,
+        "question_id": 289152006
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:176226001:425077008",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 176226,
+        "question_id": 176226001
+      },
+      {
+        "image_id": 425077,
+        "question_id": 425077008
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:280678008:580555000",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 280678,
+        "question_id": 280678008
+      },
+      {
+        "image_id": 580555,
+        "question_id": 580555000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:385438000:391290011",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 385438,
+        "question_id": 385438000
+      },
+      {
+        "image_id": 391290,
+        "question_id": 391290011
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:46975009:477940002",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 46975,
+        "question_id": 46975009
+      },
+      {
+        "image_id": 477940,
+        "question_id": 477940002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:136722002:310703000",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 136722,
+        "question_id": 136722002
+      },
+      {
+        "image_id": 310703,
+        "question_id": 310703000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:356276002:387539002",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 356276,
+        "question_id": 356276002
+      },
+      {
+        "image_id": 387539,
+        "question_id": 387539002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:49428000:327565001",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 49428,
+        "question_id": 49428000
+      },
+      {
+        "image_id": 327565,
+        "question_id": 327565001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:47071003:289337005",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 47071,
+        "question_id": 47071003
+      },
+      {
+        "image_id": 289337,
+        "question_id": 289337005
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:345507000:353577002",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 345507,
+        "question_id": 345507000
+      },
+      {
+        "image_id": 353577,
+        "question_id": 353577002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:19579001:284106005",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 19579,
+        "question_id": 19579001
+      },
+      {
+        "image_id": 284106,
+        "question_id": 284106005
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:365642016:434805004",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 365642,
+        "question_id": 365642016
+      },
+      {
+        "image_id": 434805,
+        "question_id": 434805004
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:297300000:573796004",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 297300,
+        "question_id": 297300000
+      },
+      {
+        "image_id": 573796,
+        "question_id": 573796004
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:350023013:399966000",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 350023,
+        "question_id": 350023013
+      },
+      {
+        "image_id": 399966,
+        "question_id": 399966000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:27353006:464911000",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 27353,
+        "question_id": 27353006
+      },
+      {
+        "image_id": 464911,
+        "question_id": 464911000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:110052010:304555002",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 110052,
+        "question_id": 110052010
+      },
+      {
+        "image_id": 304555,
+        "question_id": 304555002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:724000:525050020",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 724,
+        "question_id": 724000
+      },
+      {
+        "image_id": 525050,
+        "question_id": 525050020
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:146120005:456127001",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 146120,
+        "question_id": 146120005
+      },
+      {
+        "image_id": 456127,
+        "question_id": 456127001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:45721001:381037025",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 45721,
+        "question_id": 45721001
+      },
+      {
+        "image_id": 381037,
+        "question_id": 381037025
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:80470001:191288004",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 80470,
+        "question_id": 80470001
+      },
+      {
+        "image_id": 191288,
+        "question_id": 191288004
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:20760003:476172004",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 20760,
+        "question_id": 20760003
+      },
+      {
+        "image_id": 476172,
+        "question_id": 476172004
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:105052036:480591003",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 105052,
+        "question_id": 105052036
+      },
+      {
+        "image_id": 480591,
+        "question_id": 480591003
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:110052012:392022000",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 110052,
+        "question_id": 110052012
+      },
+      {
+        "image_id": 392022,
+        "question_id": 392022000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:308587010:427070003",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 308587,
+        "question_id": 308587010
+      },
+      {
+        "image_id": 427070,
+        "question_id": 427070003
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:109434001:570353005",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 109434,
+        "question_id": 109434001
+      },
+      {
+        "image_id": 570353,
+        "question_id": 570353005
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:205282009:364075000",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 205282,
+        "question_id": 205282009
+      },
+      {
+        "image_id": 364075,
+        "question_id": 364075000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:54329006:430961004",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 54329,
+        "question_id": 54329006
+      },
+      {
+        "image_id": 430961,
+        "question_id": 430961004
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:354398002:413959004",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 354398,
+        "question_id": 354398002
+      },
+      {
+        "image_id": 413959,
+        "question_id": 413959004
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:25293001:30066003",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 25293,
+        "question_id": 25293001
+      },
+      {
+        "image_id": 30066,
+        "question_id": 30066003
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:156246002:308506002",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 156246,
+        "question_id": 156246002
+      },
+      {
+        "image_id": 308506,
+        "question_id": 308506002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:90108002:249352000",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 90108,
+        "question_id": 90108002
+      },
+      {
+        "image_id": 249352,
+        "question_id": 249352000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:57387002:306619005",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 57387,
+        "question_id": 57387002
+      },
+      {
+        "image_id": 306619,
+        "question_id": 306619005
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:146825019:206994001",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 146825,
+        "question_id": 146825019
+      },
+      {
+        "image_id": 206994,
+        "question_id": 206994001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:507575006:562628012",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 507575,
+        "question_id": 507575006
+      },
+      {
+        "image_id": 562628,
+        "question_id": 562628012
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:304560000:549629003",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 304560,
+        "question_id": 304560000
+      },
+      {
+        "image_id": 549629,
+        "question_id": 549629003
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:273859001:521613001",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 273859,
+        "question_id": 273859001
+      },
+      {
+        "image_id": 521613,
+        "question_id": 521613001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:12153001:468129002",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 12153,
+        "question_id": 12153001
+      },
+      {
+        "image_id": 468129,
+        "question_id": 468129002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:243212003:434083001",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 243212,
+        "question_id": 243212003
+      },
+      {
+        "image_id": 434083,
+        "question_id": 434083001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:42383000:134649010",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 42383,
+        "question_id": 42383000
+      },
+      {
+        "image_id": 134649,
+        "question_id": 134649010
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:364113002:557965001",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 364113,
+        "question_id": 364113002
+      },
+      {
+        "image_id": 557965,
+        "question_id": 557965001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:193348001:212166001",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 193348,
+        "question_id": 193348001
+      },
+      {
+        "image_id": 212166,
+        "question_id": 212166001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:105812014:318209003",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 105812,
+        "question_id": 105812014
+      },
+      {
+        "image_id": 318209,
+        "question_id": 318209003
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:398246003:500514009",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 398246,
+        "question_id": 398246003
+      },
+      {
+        "image_id": 500514,
+        "question_id": 500514009
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:194832001:438220003",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 194832,
+        "question_id": 194832001
+      },
+      {
+        "image_id": 438220,
+        "question_id": 438220003
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:360480006:491732000",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 360480,
+        "question_id": 360480006
+      },
+      {
+        "image_id": 491732,
+        "question_id": 491732000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:43635004:130118002",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 43635,
+        "question_id": 43635004
+      },
+      {
+        "image_id": 130118,
+        "question_id": 130118002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:144935004:449490000",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 144935,
+        "question_id": 144935004
+      },
+      {
+        "image_id": 449490,
+        "question_id": 449490000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:435957001:458790003",
+    "type": "yes/no",
+    "examples": [
+      {
+        "image_id": 435957,
+        "question_id": 435957001
+      },
+      {
+        "image_id": 458790,
+        "question_id": 458790003
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:196706000:568765002",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 196706,
+        "question_id": 196706000
+      },
+      {
+        "image_id": 568765,
+        "question_id": 568765002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:217078002:493923006",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 217078,
+        "question_id": 217078002
+      },
+      {
+        "image_id": 493923,
+        "question_id": 493923006
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:99026000:564301005",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 99026,
+        "question_id": 99026000
+      },
+      {
+        "image_id": 564301,
+        "question_id": 564301005
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:248148000:381658003",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 248148,
+        "question_id": 248148000
+      },
+      {
+        "image_id": 381658,
+        "question_id": 381658003
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:185773007:304760006",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 185773,
+        "question_id": 185773007
+      },
+      {
+        "image_id": 304760,
+        "question_id": 304760006
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:104112006:394841000",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 104112,
+        "question_id": 104112006
+      },
+      {
+        "image_id": 394841,
+        "question_id": 394841000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:33052001:232088028",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 33052,
+        "question_id": 33052001
+      },
+      {
+        "image_id": 232088,
+        "question_id": 232088028
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:440000011:556248001",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 440000,
+        "question_id": 440000011
+      },
+      {
+        "image_id": 556248,
+        "question_id": 556248001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:37871002:117407002",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 37871,
+        "question_id": 37871002
+      },
+      {
+        "image_id": 117407,
+        "question_id": 117407002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:152771004:435387002",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 152771,
+        "question_id": 152771004
+      },
+      {
+        "image_id": 435387,
+        "question_id": 435387002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:331856009:563951003",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 331856,
+        "question_id": 331856009
+      },
+      {
+        "image_id": 563951,
+        "question_id": 563951003
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:125201007:326627022",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 125201,
+        "question_id": 125201007
+      },
+      {
+        "image_id": 326627,
+        "question_id": 326627022
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:136285009:572008001",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 136285,
+        "question_id": 136285009
+      },
+      {
+        "image_id": 572008,
+        "question_id": 572008001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:81988002:160351028",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 81988,
+        "question_id": 81988002
+      },
+      {
+        "image_id": 160351,
+        "question_id": 160351028
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:147590000:404209015",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 147590,
+        "question_id": 147590000
+      },
+      {
+        "image_id": 404209,
+        "question_id": 404209015
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:447740001:503518001",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 447740,
+        "question_id": 447740001
+      },
+      {
+        "image_id": 503518,
+        "question_id": 503518001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:301257004:393212000",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 301257,
+        "question_id": 301257004
+      },
+      {
+        "image_id": 393212,
+        "question_id": 393212000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:57814009:361217002",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 57814,
+        "question_id": 57814009
+      },
+      {
+        "image_id": 361217,
+        "question_id": 361217002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:136285007:570632006",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 136285,
+        "question_id": 136285007
+      },
+      {
+        "image_id": 570632,
+        "question_id": 570632006
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:49763004:284749020",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 49763,
+        "question_id": 49763004
+      },
+      {
+        "image_id": 284749,
+        "question_id": 284749020
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:107367002:472472018",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 107367,
+        "question_id": 107367002
+      },
+      {
+        "image_id": 472472,
+        "question_id": 472472018
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:446358000:479939001",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 446358,
+        "question_id": 446358000
+      },
+      {
+        "image_id": 479939,
+        "question_id": 479939001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:26209008:237626001",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 26209,
+        "question_id": 26209008
+      },
+      {
+        "image_id": 237626,
+        "question_id": 237626001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:350833004:559440003",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 350833,
+        "question_id": 350833004
+      },
+      {
+        "image_id": 559440,
+        "question_id": 559440003
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:69121007:293390001",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 69121,
+        "question_id": 69121007
+      },
+      {
+        "image_id": 293390,
+        "question_id": 293390001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:209808006:527906006",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 209808,
+        "question_id": 209808006
+      },
+      {
+        "image_id": 527906,
+        "question_id": 527906006
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:228297002:479466004",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 228297,
+        "question_id": 228297002
+      },
+      {
+        "image_id": 479466,
+        "question_id": 479466004
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:306664000:561027001",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 306664,
+        "question_id": 306664000
+      },
+      {
+        "image_id": 561027,
+        "question_id": 561027001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:297249002:364102007",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 297249,
+        "question_id": 297249002
+      },
+      {
+        "image_id": 364102,
+        "question_id": 364102007
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:268433003:417055001",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 268433,
+        "question_id": 268433003
+      },
+      {
+        "image_id": 417055,
+        "question_id": 417055001
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:337488001:413948009",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 337488,
+        "question_id": 337488001
+      },
+      {
+        "image_id": 413948,
+        "question_id": 413948009
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:60010017:262895007",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 60010,
+        "question_id": 60010017
+      },
+      {
+        "image_id": 262895,
+        "question_id": 262895007
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:464911006:523470000",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 464911,
+        "question_id": 464911006
+      },
+      {
+        "image_id": 523470,
+        "question_id": 523470000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:34820002:178156007",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 34820,
+        "question_id": 34820002
+      },
+      {
+        "image_id": 178156,
+        "question_id": 178156007
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:102614005:512879004",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 102614,
+        "question_id": 102614005
+      },
+      {
+        "image_id": 512879,
+        "question_id": 512879004
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:138477007:314356017",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 138477,
+        "question_id": 138477007
+      },
+      {
+        "image_id": 314356,
+        "question_id": 314356017
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:19523002:550980006",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 19523,
+        "question_id": 19523002
+      },
+      {
+        "image_id": 550980,
+        "question_id": 550980006
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:62250001:107729010",
+    "type": "other",
+    "examples": [
+      {
+        "image_id": 62250,
+        "question_id": 62250001
+      },
+      {
+        "image_id": 107729,
+        "question_id": 107729010
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:429042001:566278004",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 429042,
+        "question_id": 429042001
+      },
+      {
+        "image_id": 566278,
+        "question_id": 566278004
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:26768003:173832009",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 26768,
+        "question_id": 26768003
+      },
+      {
+        "image_id": 173832,
+        "question_id": 173832009
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:268371005:532338000",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 268371,
+        "question_id": 268371005
+      },
+      {
+        "image_id": 532338,
+        "question_id": 532338000
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:120986001:367452002",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 120986,
+        "question_id": 120986001
+      },
+      {
+        "image_id": 367452,
+        "question_id": 367452002
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:144365001:409867005",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 144365,
+        "question_id": 144365001
+      },
+      {
+        "image_id": 409867,
+        "question_id": 409867005
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:189245006:375440009",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 189245,
+        "question_id": 189245006
+      },
+      {
+        "image_id": 375440,
+        "question_id": 375440009
+      }
+    ]
+  },
+  {
+    "pair_id": "vqa:79229018:326592002",
+    "type": "number",
+    "examples": [
+      {
+        "image_id": 79229,
+        "question_id": 79229018
+      },
+      {
+        "image_id": 326592,
+        "question_id": 326592002
+      }
+    ]
+  }
+]

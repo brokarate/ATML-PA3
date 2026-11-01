@@ -1,0 +1,128 @@
+{
+  "task1": {
+    "baseline": {
+      "complete_benchmark_splits": true,
+      "qualitative_responses": 24,
+      "manual_annotation_slots": 6
+    },
+    "full_midpoint": {
+      "complete_benchmark_splits": true,
+      "qualitative_responses": 24,
+      "manual_annotation_slots": 6
+    },
+    "full": {
+      "complete_benchmark_splits": true,
+      "qualitative_responses": 24,
+      "manual_annotation_slots": 6
+    },
+    "l2sp": {
+      "complete_benchmark_splits": true,
+      "qualitative_responses": 24,
+      "manual_annotation_slots": 6
+    },
+    "lora4": {
+      "complete_benchmark_splits": true,
+      "qualitative_responses": 24,
+      "manual_annotation_slots": 6
+    },
+    "lora16": {
+      "complete_benchmark_splits": true,
+      "qualitative_responses": 24,
+      "manual_annotation_slots": 6
+    },
+    "oplora16": {
+      "complete_benchmark_splits": true,
+      "qualitative_responses": 24,
+      "manual_annotation_slots": 6
+    }
+  },
+  "task2": {
+    "grounding_correct": {
+      "examples": 128,
+      "pairs": 64,
+      "type_counts": {
+        "presence": 64,
+        "counting": 64
+      },
+      "scoring_recomputed": true
+    },
+    "grounding_partner": {
+      "examples": 128,
+      "pairs": 64,
+      "type_counts": {
+        "presence": 64,
+        "counting": 64
+      },
+      "scoring_recomputed": true
+    },
+    "grounding_mismatched": {
+      "examples": 128,
+      "pairs": 64,
+      "type_counts": {
+        "presence": 64,
+        "counting": 64
+      },
+      "scoring_recomputed": true
+    },
+    "grounding_none": {
+      "examples": 128,
+      "pairs": 64,
+      "type_counts": {
+        "presence": 64,
+        "counting": 64
+      },
+      "scoring_recomputed": true
+    },
+    "natural_correct": {
+      "examples": 192,
+      "pairs": 96,
+      "type_counts": {
+        "yes/no": 72,
+        "number": 48,
+        "other": 72
+      },
+      "scoring_recomputed": true
+    },
+    "natural_partner": {
+      "examples": 192,
+      "pairs": 96,
+      "type_counts": {
+        "yes/no": 72,
+        "number": 48,
+        "other": 72
+      },
+      "scoring_recomputed": true
+    },
+    "natural_mismatched": {
+      "examples": 192,
+      "pairs": 96,
+      "type_counts": {
+        "yes/no": 72,
+        "number": 48,
+        "other": 72
+      },
+      "scoring_recomputed": true
+    },
+    "natural_none": {
+      "examples": 192,
+      "pairs": 96,
+      "type_counts": {
+        "yes/no": 72,
+        "number": 48,
+        "other": 72
+      },
+      "scoring_recomputed": true
+    }
+  },
+  "task3": {
+    "downloads_and_schema_checked": true,
+    "preparation_executed": false,
+    "next_command": "caffeinate -i bash scripts/task3_prepare.sh"
+  },
+  "automated_task1_task2_evidence_complete": true,
+  "excluded_human_work": [
+    "42 Task 1 annotations",
+    "Task 2 independent image/label review",
+    "student-written report"
+  ]
+}

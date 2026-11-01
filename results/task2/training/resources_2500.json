@@ -1,0 +1,14 @@
+{
+  "stage": 2,
+  "seconds": 17109.324317792198,
+  "peak_gpu_bytes": 6252851968,
+  "peak_gpu_driver_bytes": 32846692352,
+  "memory_measurement": "sampled MPS high-water marks; lower bounds, not exact peaks",
+  "memory_sampling_interval_seconds": 0.01,
+  "stage_seconds": 2510.918857958168,
+  "stage_peak_gpu_bytes": 5724753152,
+  "stage_peak_gpu_driver_bytes": 31328370688,
+  "stage_memory_complete": true,
+  "memory_scope": "peak_gpu fields: run-to-date; stage_peak fields: current stage, including saved prefix on resume",
+  "trainable_parameters": 6424576
+}

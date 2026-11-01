@@ -1,0 +1,92 @@
+{
+  "baseline": {
+    "gsm8k_cot": 0.43745261561789234,
+    "hellaswag": 0.47301334395538736,
+    "boolq": 0.6434250764525994,
+    "arc_easy": 0.5601851851851852,
+    "mean_generated_tokens": 226.39272175890827,
+    "truncated": 11,
+    "merge_check": {
+      "adapter": false
+    },
+    "complete_splits_and_diagnostics_checked": true
+  },
+  "full_midpoint": {
+    "gsm8k_cot": 0.5648218347232752,
+    "hellaswag": 0.45797649870543716,
+    "boolq": 0.6357798165137615,
+    "arc_easy": 0.6224747474747475,
+    "mean_generated_tokens": 142.58074298711145,
+    "truncated": 11,
+    "merge_check": {
+      "adapter": false
+    },
+    "complete_splits_and_diagnostics_checked": true
+  },
+  "full": {
+    "gsm8k_cot": 0.643669446550417,
+    "hellaswag": 0.46016729735112527,
+    "boolq": 0.627217125382263,
+    "arc_easy": 0.6308922558922558,
+    "mean_generated_tokens": 140.89158453373767,
+    "truncated": 11,
+    "merge_check": {
+      "adapter": false
+    },
+    "complete_splits_and_diagnostics_checked": true
+  },
+  "l2sp": {
+    "gsm8k_cot": 0.6429112964366944,
+    "hellaswag": 0.465345548695479,
+    "boolq": 0.6327217125382263,
+    "arc_easy": 0.6262626262626263,
+    "mean_generated_tokens": 141.7604245640637,
+    "truncated": 13,
+    "merge_check": {
+      "adapter": false
+    },
+    "complete_splits_and_diagnostics_checked": true
+  },
+  "lora4": {
+    "gsm8k_cot": 0.601213040181956,
+    "hellaswag": 0.4735112527384983,
+    "boolq": 0.6755351681957187,
+    "arc_easy": 0.627104377104377,
+    "mean_generated_tokens": 146.05913570887034,
+    "truncated": 17,
+    "merge_check": {
+      "max_abs": 0.1484375,
+      "rms": 0.014938698150217533,
+      "relative_rms": 0.004734963644295931
+    },
+    "complete_splits_and_diagnostics_checked": true
+  },
+  "lora16": {
+    "gsm8k_cot": 0.6171341925701289,
+    "hellaswag": 0.46813383788090024,
+    "boolq": 0.7168195718654434,
+    "arc_easy": 0.6456228956228957,
+    "mean_generated_tokens": 143.98028809704323,
+    "truncated": 12,
+    "merge_check": {
+      "max_abs": 0.158203125,
+      "rms": 0.016098210588097572,
+      "relative_rms": 0.005335056222975254
+    },
+    "complete_splits_and_diagnostics_checked": true
+  },
+  "oplora16": {
+    "gsm8k_cot": 0.6239575435936315,
+    "hellaswag": 0.4691296554471221,
+    "boolq": 0.6969418960244649,
+    "arc_easy": 0.6300505050505051,
+    "mean_generated_tokens": 139.89158453373767,
+    "truncated": 6,
+    "merge_check": {
+      "max_abs": 0.140625,
+      "rms": 0.014359211549162865,
+      "relative_rms": 0.004675455391407013
+    },
+    "complete_splits_and_diagnostics_checked": true
+  }
+}

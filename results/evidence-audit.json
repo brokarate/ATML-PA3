@@ -1,0 +1,236 @@
+{
+  "complete": false,
+  "checks": [
+    {
+      "requirement": "original qualitative prompts",
+      "passed": false,
+      "detail": "Course file required, do not replace its text"
+    },
+    {
+      "requirement": "supplied rollout data",
+      "passed": false,
+      "detail": "Course export and original README.MD required"
+    },
+    {
+      "requirement": "Task 1 retained examples",
+      "passed": false,
+      "detail": "0 / 40000"
+    },
+    {
+      "requirement": "Task 1 full updates",
+      "passed": false,
+      "detail": "0 logged updates"
+    },
+    {
+      "requirement": "Task 1 full finite updates",
+      "passed": false,
+      "detail": "Inspect and disclose any skipped updates"
+    },
+    {
+      "requirement": "Task 1 l2sp updates",
+      "passed": false,
+      "detail": "0 logged updates"
+    },
+    {
+      "requirement": "Task 1 l2sp finite updates",
+      "passed": false,
+      "detail": "Inspect and disclose any skipped updates"
+    },
+    {
+      "requirement": "Task 1 lora4 updates",
+      "passed": false,
+      "detail": "0 logged updates"
+    },
+    {
+      "requirement": "Task 1 lora4 finite updates",
+      "passed": false,
+      "detail": "Inspect and disclose any skipped updates"
+    },
+    {
+      "requirement": "Task 1 lora16 updates",
+      "passed": false,
+      "detail": "0 logged updates"
+    },
+    {
+      "requirement": "Task 1 lora16 finite updates",
+      "passed": false,
+      "detail": "Inspect and disclose any skipped updates"
+    },
+    {
+      "requirement": "Task 1 oplora16 updates",
+      "passed": false,
+      "detail": "0 logged updates"
+    },
+    {
+      "requirement": "Task 1 oplora16 finite updates",
+      "passed": false,
+      "detail": "Inspect and disclose any skipped updates"
+    },
+    {
+      "requirement": "Task 1 baseline benchmarks",
+      "passed": false,
+      "detail": "results/task1/baseline"
+    },
+    {
+      "requirement": "Task 1 baseline 24 responses",
+      "passed": false,
+      "detail": "results/task1/qualitative/baseline.jsonl"
+    },
+    {
+      "requirement": "Task 1 baseline 6 manual annotations",
+      "passed": false,
+      "detail": "results/task1/qualitative/baseline.jsonl"
+    },
+    {
+      "requirement": "Task 1 full_midpoint benchmarks",
+      "passed": false,
+      "detail": "results/task1/full_midpoint"
+    },
+    {
+      "requirement": "Task 1 full_midpoint 24 responses",
+      "passed": false,
+      "detail": "results/task1/qualitative/full_midpoint.jsonl"
+    },
+    {
+      "requirement": "Task 1 full_midpoint 6 manual annotations",
+      "passed": false,
+      "detail": "results/task1/qualitative/full_midpoint.jsonl"
+    },
+    {
+      "requirement": "Task 1 full benchmarks",
+      "passed": false,
+      "detail": "results/task1/full"
+    },
+    {
+      "requirement": "Task 1 full 24 responses",
+      "passed": false,
+      "detail": "results/task1/qualitative/full.jsonl"
+    },
+    {
+      "requirement": "Task 1 full 6 manual annotations",
+      "passed": false,
+      "detail": "results/task1/qualitative/full.jsonl"
+    },
+    {
+      "requirement": "Task 1 l2sp benchmarks",
+      "passed": false,
+      "detail": "results/task1/l2sp"
+    },
+    {
+      "requirement": "Task 1 l2sp 24 responses",
+      "passed": false,
+      "detail": "results/task1/qualitative/l2sp.jsonl"
+    },
+    {
+      "requirement": "Task 1 l2sp 6 manual annotations",
+      "passed": false,
+      "detail": "results/task1/qualitative/l2sp.jsonl"
+    },
+    {
+      "requirement": "Task 1 lora4 benchmarks",
+      "passed": false,
+      "detail": "results/task1/lora4"
+    },
+    {
+      "requirement": "Task 1 lora4 24 responses",
+      "passed": false,
+      "detail": "results/task1/qualitative/lora4.jsonl"
+    },
+    {
+      "requirement": "Task 1 lora4 6 manual annotations",
+      "passed": false,
+      "detail": "results/task1/qualitative/lora4.jsonl"
+    },
+    {
+      "requirement": "Task 1 lora16 benchmarks",
+      "passed": false,
+      "detail": "results/task1/lora16"
+    },
+    {
+      "requirement": "Task 1 lora16 24 responses",
+      "passed": false,
+      "detail": "results/task1/qualitative/lora16.jsonl"
+    },
+    {
+      "requirement": "Task 1 lora16 6 manual annotations",
+      "passed": false,
+      "detail": "results/task1/qualitative/lora16.jsonl"
+    },
+    {
+      "requirement": "Task 1 oplora16 benchmarks",
+      "passed": false,
+      "detail": "results/task1/oplora16"
+    },
+    {
+      "requirement": "Task 1 oplora16 24 responses",
+      "passed": false,
+      "detail": "results/task1/qualitative/oplora16.jsonl"
+    },
+    {
+      "requirement": "Task 1 oplora16 6 manual annotations",
+      "passed": false,
+      "detail": "results/task1/qualitative/oplora16.jsonl"
+    },
+    {
+      "requirement": "Task 2 4500 updates",
+      "passed": false,
+      "detail": "0 logged updates"
+    },
+    {
+      "requirement": "Task 2 grounding final results",
+      "passed": false,
+      "detail": "Four conditions, pair bootstrap"
+    },
+    {
+      "requirement": "Task 2 natural final results",
+      "passed": false,
+      "detail": "Four conditions, pair bootstrap"
+    },
+    {
+      "requirement": "Task 3 offline/math_per_question.jsonl",
+      "passed": false,
+      "detail": "offline/math_per_question.jsonl"
+    },
+    {
+      "requirement": "Task 3 offline/math_accuracy_differences.json",
+      "passed": false,
+      "detail": "offline/math_accuracy_differences.json"
+    },
+    {
+      "requirement": "Task 3 adaptive/math_frozen_policies.json",
+      "passed": false,
+      "detail": "adaptive/math_frozen_policies.json"
+    },
+    {
+      "requirement": "Task 3 adaptive/math_adaptive_summary.json",
+      "passed": false,
+      "detail": "adaptive/math_adaptive_summary.json"
+    },
+    {
+      "requirement": "Task 3 offline/mathvista_per_question.jsonl",
+      "passed": false,
+      "detail": "offline/mathvista_per_question.jsonl"
+    },
+    {
+      "requirement": "Task 3 offline/mathvista_accuracy_differences.json",
+      "passed": false,
+      "detail": "offline/mathvista_accuracy_differences.json"
+    },
+    {
+      "requirement": "Task 3 adaptive/mathvista_frozen_policies.json",
+      "passed": false,
+      "detail": "adaptive/mathvista_frozen_policies.json"
+    },
+    {
+      "requirement": "Task 3 adaptive/mathvista_adaptive_summary.json",
+      "passed": false,
+      "detail": "adaptive/mathvista_adaptive_summary.json"
+    },
+    {
+      "requirement": "Task 3 50 live questions \u00d7 3 strategies",
+      "passed": false,
+      "detail": "0 / 150"
+    }
+  ],
+  "note": "File-presence audit supplements semantic tests and manual review; it cannot certify experimental correctness."
+}

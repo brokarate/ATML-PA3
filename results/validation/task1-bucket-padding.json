@@ -1,0 +1,16 @@
+{
+  "validation": "python -m pytest -q",
+  "passed": 44,
+  "skipped": 2,
+  "change": "MPS Task 1 right padding to 512/1024/2048, preserving real tokens/order/denominator",
+  "physical_mps_diagnostic_status": "completed",
+  "physical_mps_verified_updates": 4,
+  "physical_mps_finite_gradients": true,
+  "physical_mps_skipped_updates": 0,
+  "diagnostic_long_example_indices": [
+    346,
+    550
+  ],
+  "full_training_run_verified": false,
+  "other_training_methods_verified": false
+}

@@ -1,0 +1,8 @@
+{
+  "source": "https://github.com/emergent-misalignment/emergent-misalignment/blob/main/evaluation/first_plot_questions.yaml",
+  "sha256": "215abde5b02811e922b6ac563ff33c490e0dff9ab58439df840f3135e9387173",
+  "records": 24,
+  "questions": 8,
+  "exact_prompt_and_system_text_preserved": true,
+  "original_order_preserved": true
+}

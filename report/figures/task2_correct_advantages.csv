@@ -1,0 +1,5 @@
+comparison,metric,mean,ci95
+grounding_correct_advantages,accuracy,0.5703125,"[0.4375, 0.6953125]"
+grounding_correct_advantages,nll,1.9753417987303692,"[1.5387512306294866, 2.4126342887434933]"
+natural_correct_advantages,accuracy,0.3666666666666667,"[0.27760416666666665, 0.4588671875]"
+natural_correct_advantages,nll,1.4054794499685006,"[1.0209666914929092, 1.8150516432722934]"

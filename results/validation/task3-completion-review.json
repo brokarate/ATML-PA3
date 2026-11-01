@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-11-01T14:48:56.185580+00:00",
+  "datasets": {
+    "math": {
+      "offline_rows": 288000,
+      "heldout_questions": 800,
+      "methods": 6,
+      "adaptive_rows_per_policy": 8000,
+      "summary_and_policy_checks": "passed"
+    },
+    "mathvista": {
+      "offline_rows": 576000,
+      "heldout_questions": 800,
+      "methods": 12,
+      "adaptive_rows_per_policy": 8000,
+      "summary_and_policy_checks": "passed"
+    }
+  },
+  "live": {
+    "questions": 50,
+    "raw_calls": 250,
+    "strategies": 150,
+    "question_wall_seconds": 9161.37895887671,
+    "accuracy": {
+      "long": 0.56,
+      "parallel": 0.62,
+      "refinement": 0.6
+    }
+  },
+  "figures": {
+    "png_and_pdf_pairs": 27,
+    "tables": 21
+  },
+  "passed": true,
+  "limitations": [
+    "Symbolic equivalence comparisons were not rerun; original Math-Verify timeout warnings remain a grading limitation.",
+    "MPS peak memory measurements are sampled lower bounds.",
+    "Human annotations, label review, report and packaging remain."
+  ]
+}

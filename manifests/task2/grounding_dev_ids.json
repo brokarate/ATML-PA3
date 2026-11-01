@@ -1,0 +1,338 @@
+[
+  {
+    "pair_id": "presence:86:409042:557321",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 409042,
+        "question_id": "presence:86:409042:557321:0"
+      },
+      {
+        "image_id": 557321,
+        "question_id": "presence:86:409042:557321:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:34:304147:185559",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 304147,
+        "question_id": "presence:34:304147:185559:0"
+      },
+      {
+        "image_id": 185559,
+        "question_id": "presence:34:304147:185559:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:51:353411:243442",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 353411,
+        "question_id": "counting:51:353411:243442:0"
+      },
+      {
+        "image_id": 243442,
+        "question_id": "counting:51:353411:243442:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:53:509131:366536",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 509131,
+        "question_id": "presence:53:509131:366536:0"
+      },
+      {
+        "image_id": 366536,
+        "question_id": "presence:53:509131:366536:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:63:37367:536416",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 37367,
+        "question_id": "presence:63:37367:536416:0"
+      },
+      {
+        "image_id": 536416,
+        "question_id": "presence:63:37367:536416:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:10:157756:309114",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 157756,
+        "question_id": "counting:10:157756:309114:0"
+      },
+      {
+        "image_id": 309114,
+        "question_id": "counting:10:157756:309114:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:9:489014:365655",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 489014,
+        "question_id": "presence:9:489014:365655:0"
+      },
+      {
+        "image_id": 365655,
+        "question_id": "presence:9:489014:365655:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:79:26348:378311",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 26348,
+        "question_id": "counting:79:26348:378311:0"
+      },
+      {
+        "image_id": 378311,
+        "question_id": "counting:79:26348:378311:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:57:141524:506736",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 141524,
+        "question_id": "counting:57:141524:506736:0"
+      },
+      {
+        "image_id": 506736,
+        "question_id": "counting:57:141524:506736:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:49:47837:414397",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 47837,
+        "question_id": "presence:49:47837:414397:0"
+      },
+      {
+        "image_id": 414397,
+        "question_id": "presence:49:47837:414397:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:3:184667:493753",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 184667,
+        "question_id": "presence:3:184667:493753:0"
+      },
+      {
+        "image_id": 493753,
+        "question_id": "presence:3:184667:493753:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:44:29521:271035",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 29521,
+        "question_id": "presence:44:29521:271035:0"
+      },
+      {
+        "image_id": 271035,
+        "question_id": "presence:44:29521:271035:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:8:436349:3761",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 436349,
+        "question_id": "presence:8:436349:3761:0"
+      },
+      {
+        "image_id": 3761,
+        "question_id": "presence:8:436349:3761:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:72:277390:406810",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 277390,
+        "question_id": "counting:72:277390:406810:0"
+      },
+      {
+        "image_id": 406810,
+        "question_id": "counting:72:277390:406810:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:43:50407:99990",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 50407,
+        "question_id": "counting:43:50407:99990:0"
+      },
+      {
+        "image_id": 99990,
+        "question_id": "counting:43:50407:99990:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:33:567565:557459",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 567565,
+        "question_id": "presence:33:567565:557459:0"
+      },
+      {
+        "image_id": 557459,
+        "question_id": "presence:33:567565:557459:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:10:215723:108923",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 215723,
+        "question_id": "presence:10:215723:108923:0"
+      },
+      {
+        "image_id": 108923,
+        "question_id": "presence:10:215723:108923:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:25:27440:290704",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 27440,
+        "question_id": "counting:25:27440:290704:0"
+      },
+      {
+        "image_id": 290704,
+        "question_id": "counting:25:27440:290704:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "presence:25:358048:30931",
+    "type": "presence",
+    "examples": [
+      {
+        "image_id": 358048,
+        "question_id": "presence:25:358048:30931:0"
+      },
+      {
+        "image_id": 30931,
+        "question_id": "presence:25:358048:30931:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:15:198645:283984",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 198645,
+        "question_id": "counting:15:198645:283984:0"
+      },
+      {
+        "image_id": 283984,
+        "question_id": "counting:15:198645:283984:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:52:59598:240279",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 59598,
+        "question_id": "counting:52:59598:240279:0"
+      },
+      {
+        "image_id": 240279,
+        "question_id": "counting:52:59598:240279:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:77:400516:39663",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 400516,
+        "question_id": "counting:77:400516:39663:0"
+      },
+      {
+        "image_id": 39663,
+        "question_id": "counting:77:400516:39663:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:25:275210:240049",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 275210,
+        "question_id": "counting:25:275210:240049:0"
+      },
+      {
+        "image_id": 240049,
+        "question_id": "counting:25:275210:240049:1"
+      }
+    ]
+  },
+  {
+    "pair_id": "counting:65:421188:173081",
+    "type": "counting",
+    "examples": [
+      {
+        "image_id": 421188,
+        "question_id": "counting:65:421188:173081:0"
+      },
+      {
+        "image_id": 173081,
+        "question_id": "counting:65:421188:173081:1"
+      }
+    ]
+  }
+]

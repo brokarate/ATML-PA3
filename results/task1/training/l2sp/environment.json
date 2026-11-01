@@ -1,0 +1,266 @@
+{
+  "packages": {
+    "torch": "2.9.1",
+    "transformers": "4.57.1",
+    "datasets": "3.6.0",
+    "numpy": "2.4.4",
+    "pandas": "2.3.3",
+    "lm-eval": "0.4.9.1",
+    "math-verify": "0.8.0"
+  },
+  "git": "8321711f6de8ab5f32f8f2f5f8daddc957b0f504",
+  "seed": 6304,
+  "source_sha256": {
+    "common/device.py": "5c72111afd72f5a1c33de3339cbb04e46d604b2d5797afc6d184e6fd349aaac2",
+    "common/__init__.py": "5f4331fa553e8268583ee7c825c347d3b2029cbd7c3f19ba1ff33a90580e6c0a",
+    "common/vqa.py": "38cbc3171d123768fa3e8eb37dd3f3bde871b7685fd5c32007ea3a0c1a6a40e8",
+    "common/adapters.py": "0a1605ceda84738fd79ad646c7f7f9021e7f303cfe5120af453fbedb6e76818c",
+    "pa3/audit.py": "50b7368d49fa0afd79fd330ba6284bfbbc4cad9bfce87520a9977a26d37529a9",
+    "pa3/__init__.py": "f8eb3798135849b175bfb5585c542dd39d80bc82af62424ef3b019febd52dba2",
+    "pa3/plots.py": "c25dba38a0ccc51aa300615f39a0f445e80aba9bd10726b8db0b124a76b45fd2",
+    "pa3/cli.py": "1237e946cd78f85ef70ca1c9213c85f3f1291b800e6687c0b42292e828473ade",
+    "task1_finetuning/generation_trace.py": "b4c87c98868b73bf4ee479cf2fee97292294e14dc6c1629d2af2c7462b70eaf2",
+    "task1_finetuning/batching.py": "d10d9c7a99e9e3761a0389bbbbc3011b16cde3d38fb9b8154eeab6682c11eb09",
+    "task1_finetuning/config.py": "a6c538eb6ba28c51a8b95ec3146ac708e89bc2923d116acdff661dde762cf3ff",
+    "task1_finetuning/diagnostics.py": "3ffc5e8b2c7639297cc766f422b9ac0c3178ace06e5ed41411aac219b428bfee",
+    "task1_finetuning/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "task1_finetuning/model.py": "fcd34a51aa3516963d3278de5bd5381f9937aecc7e68a4549dfa2061ce332fd2",
+    "task1_finetuning/loss.py": "14ef3f79425050607e856651caf89dc7d74ab09cfa4366bd408a317e199240ee",
+    "task1_finetuning/train.py": "7095f04dba88b3de3a0ec7d4c8cbfdc614a2888dea19f47e3efdcb8aea3e8d1c",
+    "task1_finetuning/evaluate.py": "9a764c1904637d3ff6c530863374620962cc2ca6185244fe950f3f7b098ebdb7",
+    "task1_finetuning/data.py": "99583a34ad8ad15adb27d4e2e705a460d839e2ac157cbfc77fee49438c7e55f8",
+    "task2_vlm/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "task2_vlm/model.py": "9247f7eac1100ae72ff4e36e4e908519c9bbdfcef46498c42b53a84835e79a60",
+    "task2_vlm/train.py": "11995b4927086cd7b0b192aeece2fffd4ab80f0b05d41501750be3b777ae3ac1",
+    "task2_vlm/evaluate.py": "73a23dad842c27b0f48a203e7f0347760d3bb7f3adb331c125b1a48b8d19d6de",
+    "task2_vlm/data.py": "a28d1e6526ceb99c2665054a86c70647c69a446aa0ccb41c54c0c82f2f7c0195",
+    "task3_inference/scoring.py": "700621569d64c3a42e8187f2886e5f9936d57c56ee1ddae6488570f53dbfcfba",
+    "task3_inference/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "task3_inference/offline.py": "2b7bdcaf4490def44e5d6c6763f7ef3db97af13dc4521ce16a12647bcc504c8a",
+    "task3_inference/adaptive.py": "bd88d0750a6aa2e72c58d4449f852e2c82fb709e90dfa39ffe7a2487e6cd2620",
+    "task3_inference/live.py": "196c4fbdc52aa17c552869d9aa5e96a08145f1d5392c6a3830a40a0d4582cf6b",
+    "task3_inference/data.py": "ae6d9ee5780b00420125264bee4d42bbcfa45a4f079b6e0f5125d874600ca62c"
+  },
+  "protocol": {
+    "seed": 6304,
+    "backend": {
+      "selection": "PA3_DEVICE or --device; auto selects CUDA when available, otherwise MPS",
+      "mps_attention": "eager",
+      "mps_exact_svd_device": "cpu, FP32, no randomized approximation",
+      "mps_gradient_scaler": "native torch.amp.GradScaler(mps), enabled",
+      "mps_memory_measurement": "sampled tensor/driver high-water marks, lower bounds",
+      "mps_memory_sampling_interval_seconds": 0.01,
+      "automatic_cpu_training_fallback": false
+    },
+    "task1": {
+      "model": "Qwen/Qwen3-0.6B",
+      "thinking": false,
+      "examples": 40000,
+      "updates": 1250,
+      "epochs": 1,
+      "microbatch": 2,
+      "accumulation": 16,
+      "max_length": 2048,
+      "betas": [
+        0.9,
+        0.999
+      ],
+      "eps": 1e-08,
+      "weight_decay": 0.01,
+      "warmup": 38,
+      "schedule": "cosine to zero",
+      "clip": 1.0,
+      "precision": "FP16 autocast, FP32 master trainable parameters and optimizer states",
+      "checkpoint_updates": [
+        312,
+        625,
+        937,
+        1250
+      ],
+      "methods": {
+        "full": {
+          "lr": 2e-05
+        },
+        "l2sp": {
+          "lr": 2e-05,
+          "lambda": 0.001
+        },
+        "lora4": {
+          "lr": 0.0002,
+          "r": 4,
+          "alpha": 8
+        },
+        "lora16": {
+          "lr": 0.0002,
+          "r": 16,
+          "alpha": 32
+        },
+        "oplora16": {
+          "lr": 0.0002,
+          "r": 16,
+          "alpha": 32,
+          "k": 128
+        }
+      },
+      "dropout": 0.05,
+      "targets": [
+        "q_proj",
+        "k_proj",
+        "v_proj",
+        "o_proj",
+        "gate_proj",
+        "up_proj",
+        "down_proj"
+      ],
+      "gsm8k_max_new_tokens": 1024,
+      "qualitative_max_new_tokens": 512,
+      "diagnostic_layers": [
+        0,
+        13,
+        27
+      ],
+      "probe_examples_per_task": 32
+    },
+    "task2": {
+      "encoder": "google/siglip-base-patch16-224",
+      "model": "Qwen/Qwen3-0.6B",
+      "connector": [
+        768,
+        1024,
+        1024
+      ],
+      "visual_tokens": 196,
+      "microbatch": 8,
+      "accumulation": 2,
+      "updates": [
+        2250,
+        1500,
+        750
+      ],
+      "connector_lrs": [
+        0.001,
+        0.0001,
+        5e-05
+      ],
+      "adapter_lrs": [
+        null,
+        2e-05,
+        1e-05
+      ],
+      "warmup_fraction": 0.05,
+      "cosine_floor": 0.1,
+      "weight_decay": 0.01,
+      "clip": 1.0,
+      "caption_examples": 18000,
+      "caption_passes": 2,
+      "content_caps": {
+        "question": 80,
+        "caption": 64,
+        "answer": 16
+      },
+      "adapter_rank": 16,
+      "adapter_alpha": 32,
+      "adapter_dropout": 0.05,
+      "adapter_targets": [
+        "q_proj",
+        "k_proj",
+        "v_proj",
+        "o_proj"
+      ],
+      "stage2_draws": {
+        "presence": 0.5,
+        "counting": 0.25,
+        "caption": 0.25
+      },
+      "stage3_draws": {
+        "natural": 0.7,
+        "presence": 0.1,
+        "counting": 0.1,
+        "caption": 0.1
+      },
+      "bootstrap_pairs": 4000,
+      "generation_batch": 8,
+      "max_new_tokens": 16
+    },
+    "task3": {
+      "questions_per_dataset": 1000,
+      "development": 200,
+      "evaluation": 800,
+      "live_questions": 50,
+      "rollouts": 32,
+      "orders": 10,
+      "budgets": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "bootstrap_questions": 1000,
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "repetition_penalty": 1.0,
+      "live_output_caps": {
+        "long": [
+          3072
+        ],
+        "parallel": [
+          1024,
+          1024,
+          1024
+        ],
+        "refinement": [
+          1024,
+          2048
+        ]
+      },
+      "stop_checks": [
+        4,
+        8,
+        16
+      ],
+      "tau": [
+        0.5,
+        0.625,
+        0.75,
+        0.875,
+        1.0
+      ],
+      "gamma": [
+        0,
+        0.1,
+        0.25,
+        0.5
+      ],
+      "accuracy_tolerance": 0.01
+    }
+  },
+  "protocol_sha256": "be885a80664890fe0d761f3b2abe5df19d543eb13d675ffd3b7c394143c9ac1b",
+  "gpu": "Apple GPU (MPS)",
+  "device": "mps",
+  "available_backends": {
+    "cuda": false,
+    "mps": true
+  },
+  "macos": "26.6.2",
+  "machine": "arm64",
+  "mps_cpu_svd": true,
+  "mps_fallback_environment": "unset",
+  "mps_attention": "eager",
+  "mps_prefer_metal": "unset",
+  "precision_policy": "FP16 autocast; FP32 trainable parameters and optimizer states; dynamic gradient scaling",
+  "cuda": null,
+  "method": "l2sp",
+  "overhead": {
+    "reference_storage_bytes": 2384199680,
+    "reference_copy_seconds": 0.405920583056286
+  },
+  "padding_buckets": [
+    512,
+    1024,
+    2048
+  ],
+  "model_revision": "c1899de289a04d12100db370d81485cdf75e47ca"
+}

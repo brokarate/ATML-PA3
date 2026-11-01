@@ -1,0 +1,21 @@
+{
+  "requested_device": "cpu",
+  "assignment_experiment": false,
+  "amp": {
+    "autocast_dtype": "torch.float16",
+    "finite_update": true,
+    "overflow_skip": true,
+    "scale_backoff": true,
+    "scaler_resume": true,
+    "rng_resume": true,
+    "optimizer_moments": "float32"
+  },
+  "tiny_qwen": {
+    "checkpointed_backward": true,
+    "fp16_backbone_fp32_adapters": true,
+    "exact_svd_projection": true,
+    "merge_rms": 8.778716437518597e-05,
+    "generation_tokens": 4
+  },
+  "status": "passed"
+}

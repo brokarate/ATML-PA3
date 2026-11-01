@@ -1,0 +1,5 @@
+metric,top_minus_bottom_accuracy,length_spearman,correctness_spearman,value
+certainty,0.1196875,-0.16109595817293734,0.19805122108816745,
+length_correctness,,,,-0.07610488900432177
+logp,0.07875,0.22450990220048073,0.1344648308562086,
+shortest,0.0453125,-1.0,0.07610488900432177,

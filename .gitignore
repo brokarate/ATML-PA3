@@ -10,6 +10,9 @@
 .venv/
 venv/
 __pycache__/
+*.egg-info/
+build/
+dist/
 *.py[cod]
 .pytest_cache/
 .ruff_cache/
@@ -17,7 +20,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Downloaded datasets, model weights, and recovery state
-data/
+data/*
+!data/README.md
 datasets/
 ATML-PA3-Data/
 checkpoints/
@@ -30,7 +34,28 @@ wandb/
 *.pth
 *.ckpt
 *.bin
+external/
 
 # Temporary outputs; keep small machine-readable results tracked
 tmp/
 *.log
+
+/manifests/task2/grounding_train_ids.json
+
+/results/task1/baseline/retention.json
+
+/results/task1/full/retention.json
+
+/results/task1/full_midpoint/retention.json
+
+/results/task1/l2sp/retention.json
+
+/results/task1/lora16/retention.json
+
+/results/task1/lora4/retention.json
+
+/results/task1/oplora16/retention.json
+
+/results/task3/offline/math_per_question.jsonl
+
+/results/task3/offline/mathvista_per_question.jsonl

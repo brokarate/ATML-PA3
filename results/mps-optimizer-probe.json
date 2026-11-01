@@ -1,0 +1,150 @@
+{
+  "torch": "2.9.1",
+  "checks": [
+    {
+      "implementation": "standard",
+      "parameter_shape": [
+        16384,
+        1024
+      ],
+      "records": [
+        {
+          "step": 1,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 2,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 3,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 4,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 5,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 6,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 7,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 8,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 9,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 10,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 11,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        },
+        {
+          "step": 12,
+          "live_bytes": 268435456,
+          "driver_bytes": 1074233344
+        }
+      ],
+      "driver_growth_bytes": 0,
+      "completed_steps": 12,
+      "finite_parameters": true
+    },
+    {
+      "implementation": "fused",
+      "parameter_shape": [
+        16384,
+        1024
+      ],
+      "records": [
+        {
+          "step": 1,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 2,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 3,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 4,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 5,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 6,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 7,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 8,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 9,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 10,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 11,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        },
+        {
+          "step": 12,
+          "live_bytes": 268435712,
+          "driver_bytes": 1082621952
+        }
+      ],
+      "driver_growth_bytes": 0,
+      "completed_steps": 12,
+      "finite_parameters": true
+    }
+  ],
+  "status": "completed"
+}

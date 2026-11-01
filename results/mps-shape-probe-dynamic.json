@@ -1,0 +1,300 @@
+{
+  "status": "stopped",
+  "shape": "dynamic",
+  "measurements": [
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 1,
+      "live_bytes": 2439857664,
+      "driver_bytes": 3379331072
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 1,
+      "live_bytes": 4935350528,
+      "driver_bytes": 6229983232
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 2,
+      "live_bytes": 5067369216,
+      "driver_bytes": 6834028544
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 2,
+      "live_bytes": 4935350528,
+      "driver_bytes": 6873432064
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 3,
+      "live_bytes": 5073158144,
+      "driver_bytes": 9020981248
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 3,
+      "live_bytes": 4935350528,
+      "driver_bytes": 7523172352
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 4,
+      "live_bytes": 4989618944,
+      "driver_bytes": 7825244160
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 4,
+      "live_bytes": 4935350528,
+      "driver_bytes": 8149860352
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 5,
+      "live_bytes": 5057692928,
+      "driver_bytes": 8686796800
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 5,
+      "live_bytes": 4935350528,
+      "driver_bytes": 8772337664
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 6,
+      "live_bytes": 5070719232,
+      "driver_bytes": 10898915328
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 6,
+      "live_bytes": 4935350528,
+      "driver_bytes": 9346580480
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 7,
+      "live_bytes": 5063469568,
+      "driver_bytes": 11561238528
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 7,
+      "live_bytes": 4935350528,
+      "driver_bytes": 9990029312
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 8,
+      "live_bytes": 4964981248,
+      "driver_bytes": 10023649280
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 8,
+      "live_bytes": 4935350528,
+      "driver_bytes": 10612506624
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 9,
+      "live_bytes": 4984907008,
+      "driver_bytes": 10981670912
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 9,
+      "live_bytes": 4935350528,
+      "driver_bytes": 11234983936
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 10,
+      "live_bytes": 5066878976,
+      "driver_bytes": 11839029248
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 10,
+      "live_bytes": 4935350528,
+      "driver_bytes": 11857461248
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 11,
+      "live_bytes": 5320664320,
+      "driver_bytes": 15087157248
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 11,
+      "live_bytes": 4935350528,
+      "driver_bytes": 12488343552
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 12,
+      "live_bytes": 5000270080,
+      "driver_bytes": 12823953408
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 12,
+      "live_bytes": 4935350528,
+      "driver_bytes": 13110951936
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 13,
+      "live_bytes": 5084057600,
+      "driver_bytes": 14218313728
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 13,
+      "live_bytes": 4935350528,
+      "driver_bytes": 13733429248
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 14,
+      "live_bytes": 4967628544,
+      "driver_bytes": 13767049216
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 14,
+      "live_bytes": 4935350528,
+      "driver_bytes": 14355906560
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 15,
+      "live_bytes": 4980957440,
+      "driver_bytes": 14557298688
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 15,
+      "live_bytes": 4935350528,
+      "driver_bytes": 14978383872
+    },
+    {
+      "phase": "forward",
+      "update": 1,
+      "microbatch": 16,
+      "live_bytes": 4998574080,
+      "driver_bytes": 15481765888
+    },
+    {
+      "phase": "backward",
+      "update": 1,
+      "microbatch": 16,
+      "live_bytes": 4935350528,
+      "driver_bytes": 15600861184
+    },
+    {
+      "phase": "optimizer",
+      "update": 1,
+      "microbatch": 16,
+      "live_bytes": 9703750912,
+      "driver_bytes": 20068024320
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 1,
+      "live_bytes": 7392527872,
+      "driver_bytes": 20009369600
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 1,
+      "live_bytes": 9782706176,
+      "driver_bytes": 21768437760
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 2,
+      "live_bytes": 9818937088,
+      "driver_bytes": 21768503296
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 2,
+      "live_bytes": 9782706176,
+      "driver_bytes": 22365732864
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 3,
+      "live_bytes": 9917812224,
+      "driver_bytes": 23439540224
+    },
+    {
+      "phase": "backward",
+      "update": 2,
+      "microbatch": 3,
+      "live_bytes": 9782706176,
+      "driver_bytes": 23013376000
+    },
+    {
+      "phase": "forward",
+      "update": 2,
+      "microbatch": 4,
+      "live_bytes": 9903475968,
+      "driver_bytes": 24041046016
+    }
+  ],
+  "updates": [
+    {
+      "update": 1,
+      "loss": 1.0279235914349556,
+      "seconds": 24.465117124957033,
+      "finite_grad_norm": true,
+      "skipped": false,
+      "phase": "optimizer",
+      "microbatch": 16,
+      "live_bytes": 9703750912,
+      "driver_bytes": 20068024320
+    }
+  ],
+  "error": "RuntimeError: Diagnostic memory guard: driver exceeded 22 GiB"
+}

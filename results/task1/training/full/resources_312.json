@@ -1,0 +1,12 @@
+{
+  "training_seconds": 9936.952247207984,
+  "peak_gpu_bytes": 18866566656,
+  "peak_gpu_driver_bytes": 24655069184,
+  "memory_measurement": "sampled MPS high-water marks; lower bounds, not exact peaks",
+  "memory_sampling_interval_seconds": 0.01,
+  "checkpoint_bytes": 7775310779,
+  "trainable_parameters": 596049920,
+  "reference_transfer_seconds": 0.0,
+  "reference_storage_bytes": 0,
+  "reference_copy_seconds": 8.330680429935455e-07
+}

@@ -1,0 +1,14 @@
+{
+  "validation": "python -m pytest -q",
+  "passed": 33,
+  "skipped": 2,
+  "changes": [
+    "Release microbatch outputs after backward",
+    "Checkpoint output head and FP32 CE in groups of 128 supervised tokens; avoid full-sequence logits",
+    "MPS garbage collection, synchronization and unused-cache release after each microbatch",
+    "Post-cleanup live/driver memory logged per update",
+    "Release checkpoint state after serialization"
+  ],
+  "equivalence_checks": "Two updates of tiny Qwen, full and LoRA, tied and untied embeddings; loss, gradients and parameters",
+  "physical_mps_training_verified": false
+}

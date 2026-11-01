@@ -1,0 +1,21 @@
+{
+  "revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+  "device": "mps",
+  "questions_sha256": "7f9f7f7fc0ec2abce6c70d274c18ac3470b205b0b97b3f378627d3982cd9410e",
+  "splits_sha256": "8c7ac266d14c79029f1d7c21486e8e2baa0df1a079e8c50188d5cb85fa660e3d",
+  "rollout_readme_sha256": "737f834ff66a031e226149066d97b7c38919f5c2f196906a5de037a42ac87241",
+  "seed": 6304,
+  "instruction": "Think step by step inside <think> </think> tags, then give your final answer inside \\boxed{}.",
+  "revision_instruction": "Review the solution above. Identify and correct any errors; if it is correct, retain its answer. Give your final answer inside \\boxed{}.",
+  "sampling": {
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k": 20,
+    "repetition_penalty": 1.0
+  },
+  "caps": {
+    "long": 3072,
+    "parallel": 1024,
+    "revision": 2048
+  }
+}

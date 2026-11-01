@@ -1,0 +1,7 @@
+{
+  "device": "mps",
+  "peak_gpu_bytes": 4957919744,
+  "peak_gpu_driver_bytes": 19625787392,
+  "memory_measurement": "sampled MPS high-water marks; lower bounds, not exact peaks",
+  "memory_sampling_interval_seconds": 0.01
+}

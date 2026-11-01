@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-28",
+  "method": "full",
+  "checks": {
+    "training_sources_match_start_snapshot": true,
+    "exact_update_and_example_sequence": true,
+    "no_skipped_updates": true,
+    "finite_losses_and_gradients": true,
+    "full_ft_has_no_l2sp_penalty": true,
+    "all_1250_learning_rates_match_warmup_cosine": true,
+    "seed_revision_and_padding_recorded": true,
+    "all_four_checkpoint_checks_pass": true,
+    "all_final_weights_and_optimizer_moments_finite": true,
+    "original_parameters_changed": true,
+    "tied_embedding_aliases_equal": true,
+    "exact_first_40000_eligible_source_examples": true,
+    "rejection_counts_match": true,
+    "all_source_text_tokenization_masks_and_eot_verified": true,
+    "no_normalized_gsm8k_test_overlap": true,
+    "no_truncation_maximum_2048": true
+  },
+  "checkpoints": [
+    {
+      "step": 312,
+      "metadata_correct": true,
+      "full_model_keys_and_shapes": true,
+      "all_model_tensors_fp32": true,
+      "optimizer_groups_correct": true,
+      "all_unique_parameter_steps_correct": true,
+      "all_moments_fp32": true,
+      "scheduler_and_scaler_state_correct": true,
+      "rng_state_present": true
+    },
+    {
+      "step": 625,
+      "metadata_correct": true,
+      "full_model_keys_and_shapes": true,
+      "all_model_tensors_fp32": true,
+      "optimizer_groups_correct": true,
+      "all_unique_parameter_steps_correct": true,
+      "all_moments_fp32": true,
+      "scheduler_and_scaler_state_correct": true,
+      "rng_state_present": true
+    },
+    {
+      "step": 937,
+      "metadata_correct": true,
+      "full_model_keys_and_shapes": true,
+      "all_model_tensors_fp32": true,
+      "optimizer_groups_correct": true,
+      "all_unique_parameter_steps_correct": true,
+      "all_moments_fp32": true,
+      "scheduler_and_scaler_state_correct": true,
+      "rng_state_present": true
+    },
+    {
+      "step": 1250,
+      "metadata_correct": true,
+      "full_model_keys_and_shapes": true,
+      "all_model_tensors_fp32": true,
+      "optimizer_groups_correct": true,
+      "all_unique_parameter_steps_correct": true,
+      "all_moments_fp32": true,
+      "scheduler_and_scaler_state_correct": true,
+      "rng_state_present": true
+    }
+  ],
+  "final_full_model_displacement_l2": 10.683386188128125,
+  "changed_unique_parameters": 310,
+  "data": {
+    "source_rows_checked": 40002,
+    "accepted": 40000,
+    "rejected": {
+      "empty": 0,
+      "overlap": 0,
+      "length": 2
+    },
+    "maximum_formatted_length": 1941,
+    "source_arrow_sha256": "fb4e173244a6c122409678e836c65866e8142e61413483c761712492e13b32e5",
+    "test_arrow_sha256": "45965b000311d1550e5619b60b5bf31cf76edebfd8b8eddc62a876fbf8c9be95"
+  },
+  "training_checks_passed": true,
+  "benchmark_accuracy_evaluated": false,
+  "assignment_complete": false,
+  "validation": {
+    "passed": 50,
+    "skipped": 2,
+    "command": "python -m pytest -q"
+  },
+  "three_task_source_audit_unchanged": true,
+  "remaining_requirements": [
+    "Task 1 remaining four methods, shared baseline/midpoint/final benchmark evaluations, diagnostic outputs and original qualitative YAML with human annotations",
+    "Task 2 actual COCO/VQAv2 assets, official scorer, independent label inspection and complete runtime validation",
+    "Task 3 original exports/README, metadata/scorer, exact schema/revision/extraction verification and experiments",
+    "Student-written report and public repository implementation/results upload"
+  ]
+}

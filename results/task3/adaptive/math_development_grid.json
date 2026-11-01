@@ -1,0 +1,245 @@
+[
+  {
+    "family": "agreement",
+    "policy": {
+      "tau": 0.5,
+      "gamma": null
+    },
+    "accuracy": 0.8145,
+    "token_cost": 5052.79
+  },
+  {
+    "family": "agreement",
+    "policy": {
+      "tau": 0.625,
+      "gamma": null
+    },
+    "accuracy": 0.826,
+    "token_cost": 7088.9555
+  },
+  {
+    "family": "agreement",
+    "policy": {
+      "tau": 0.75,
+      "gamma": null
+    },
+    "accuracy": 0.826,
+    "token_cost": 7717.453
+  },
+  {
+    "family": "agreement",
+    "policy": {
+      "tau": 0.875,
+      "gamma": null
+    },
+    "accuracy": 0.826,
+    "token_cost": 9981.583
+  },
+  {
+    "family": "agreement",
+    "policy": {
+      "tau": 1.0,
+      "gamma": null
+    },
+    "accuracy": 0.826,
+    "token_cost": 10856.926
+  },
+  {
+    "family": "agreement",
+    "policy": {
+      "tau": 1.0,
+      "always": true
+    },
+    "accuracy": 0.825,
+    "token_cost": 18322.4
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.5,
+      "gamma": 0.0
+    },
+    "accuracy": 0.8215,
+    "token_cost": 5479.5285
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.5,
+      "gamma": 0.1
+    },
+    "accuracy": 0.822,
+    "token_cost": 5664.8075
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.5,
+      "gamma": 0.25
+    },
+    "accuracy": 0.821,
+    "token_cost": 6028.228
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.5,
+      "gamma": 0.5
+    },
+    "accuracy": 0.8225,
+    "token_cost": 7057.8675
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.625,
+      "gamma": 0.0
+    },
+    "accuracy": 0.8265,
+    "token_cost": 7129.35
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.625,
+      "gamma": 0.1
+    },
+    "accuracy": 0.8265,
+    "token_cost": 7249.9675
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.625,
+      "gamma": 0.25
+    },
+    "accuracy": 0.8255,
+    "token_cost": 7293.8885
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.625,
+      "gamma": 0.5
+    },
+    "accuracy": 0.825,
+    "token_cost": 7851.983
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.75,
+      "gamma": 0.0
+    },
+    "accuracy": 0.8265,
+    "token_cost": 7756.0555
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.75,
+      "gamma": 0.1
+    },
+    "accuracy": 0.8265,
+    "token_cost": 7928.784
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.75,
+      "gamma": 0.25
+    },
+    "accuracy": 0.826,
+    "token_cost": 7942.102
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.75,
+      "gamma": 0.5
+    },
+    "accuracy": 0.8245,
+    "token_cost": 8253.234
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.875,
+      "gamma": 0.0
+    },
+    "accuracy": 0.826,
+    "token_cost": 9981.583
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.875,
+      "gamma": 0.1
+    },
+    "accuracy": 0.826,
+    "token_cost": 9981.583
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.875,
+      "gamma": 0.25
+    },
+    "accuracy": 0.826,
+    "token_cost": 9981.583
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 0.875,
+      "gamma": 0.5
+    },
+    "accuracy": 0.826,
+    "token_cost": 9987.28
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 1.0,
+      "gamma": 0.0
+    },
+    "accuracy": 0.826,
+    "token_cost": 10856.926
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 1.0,
+      "gamma": 0.1
+    },
+    "accuracy": 0.826,
+    "token_cost": 10856.926
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 1.0,
+      "gamma": 0.25
+    },
+    "accuracy": 0.826,
+    "token_cost": 10856.926
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 1.0,
+      "gamma": 0.5
+    },
+    "accuracy": 0.826,
+    "token_cost": 10856.926
+  },
+  {
+    "family": "quality",
+    "policy": {
+      "tau": 1.0,
+      "always": true
+    },
+    "accuracy": 0.825,
+    "token_cost": 18322.4
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "local_checks_passed": true,
+  "checks": [
+    {
+      "command": "python -m pytest -q --junitxml=results/validation/tests.xml",
+      "exit_code": 0,
+      "stdout": ".....ss..................                                                [100%]\n- generated xml file: /Users/khan/Desktop/LUMS/Sem 5/ATML/PAs/PA3/results/validation/tests.xml -\n23 passed, 2 skipped in 6.89s\n",
+      "stderr": ""
+    },
+    {
+      "command": "python -m pyflakes common pa3 task1_finetuning task2_vlm task3_inference scripts tests",
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "python -m black --check common pa3 task1_finetuning task2_vlm task3_inference scripts tests",
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": "All done! \u2728 \ud83c\udf70 \u2728\n35 files would be left unchanged.\n"
+    },
+    {
+      "command": "python -m compileall -q common pa3 task1_finetuning task2_vlm task3_inference scripts tests",
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "python -m scripts.smoke --device cpu --output results/validation/cpu-backend-check.json",
+      "exit_code": 0,
+      "stdout": "passed: results/validation/cpu-backend-check.json\n",
+      "stderr": ""
+    },
+    {
+      "command": "bash -n scripts/task1.sh scripts/task2.sh",
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git diff --check",
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": ""
+    }
+  ],
+  "physical_mps_verified": false,
+  "physical_mps_status": "torch.backends.mps.is_available() is false in this process; target-device tests skipped; explicit smoke check failed at availability guard",
+  "not_validated": [
+    "Physical MPS FP16 operations, native scaler and checkpoint roundtrips",
+    "Real-model maximum-length microbatch memory on the Mac",
+    "Complete prescribed effective-batch training and benchmark runs",
+    "Actual course assets and scorer parity"
+  ],
+  "measurement_limitations": [
+    "MPS memory high-water marks are sampled lower bounds, not exact CUDA allocator peaks"
+  ]
+}

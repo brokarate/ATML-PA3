@@ -1,0 +1,6 @@
+{
+  "requested_device": "mps",
+  "assignment_experiment": false,
+  "status": "failed",
+  "error": "Traceback (most recent call last):\n  File \"/Users/khan/Desktop/LUMS/Sem 5/ATML/PAs/PA3/scripts/smoke.py\", line 259, in main\n    device = torch.device(\"cpu\") if args.device == \"cpu\" else require_accelerator()\n                                                              ~~~~~~~~~~~~~~~~~~~^^\n  File \"/Users/khan/Desktop/LUMS/Sem 5/ATML/PAs/PA3/common/device.py\", line 30, in require_accelerator\n    raise RuntimeError(\n    ...<3 lines>...\n    )\nRuntimeError: Requested mps GPU is unavailable to this Python process. On Apple Silicon, run `python -m scripts.smoke --device mps` in your own Terminal. No CPU, BF16, or unscaled-training fallback is applied.\n"
+}

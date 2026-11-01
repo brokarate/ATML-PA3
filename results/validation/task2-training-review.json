@@ -1,0 +1,45 @@
+{
+  "updates": 4500,
+  "stage_counts": [
+    2250,
+    1500,
+    750
+  ],
+  "finite_losses": true,
+  "learning_rates_match_recipe": true,
+  "skipped_updates": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "recorded_training_seconds": 38340.138856083155,
+  "runtime": "10:39:00",
+  "checkpoints": [
+    {
+      "stage": 1,
+      "checkpoint": 2250,
+      "weights_optimizer_finite": true,
+      "data_hashes_match": true,
+      "export_matches": true,
+      "stage_memory_complete": true
+    },
+    {
+      "stage": 2,
+      "checkpoint": 3750,
+      "weights_optimizer_finite": true,
+      "data_hashes_match": true,
+      "export_matches": true,
+      "stage_memory_complete": true
+    },
+    {
+      "stage": 3,
+      "checkpoint": 4500,
+      "weights_optimizer_finite": true,
+      "data_hashes_match": true,
+      "export_matches": true,
+      "stage_memory_complete": true
+    }
+  ],
+  "final_accuracy_evaluation_complete": false
+}

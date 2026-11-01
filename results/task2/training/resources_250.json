@@ -1,0 +1,9 @@
+{
+  "stage": 1,
+  "seconds": 1754.556727166986,
+  "peak_gpu_bytes": 5814383360,
+  "peak_gpu_driver_bytes": 31225954304,
+  "memory_measurement": "sampled MPS high-water marks; lower bounds, not exact peaks",
+  "memory_sampling_interval_seconds": 0.01,
+  "trainable_parameters": 1837056
+}

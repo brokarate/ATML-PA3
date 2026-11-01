@@ -1,0 +1,10 @@
+{
+  "agreement": {
+    "tau": 0.625,
+    "gamma": null
+  },
+  "quality": {
+    "tau": 0.5,
+    "gamma": 0.0
+  }
+}

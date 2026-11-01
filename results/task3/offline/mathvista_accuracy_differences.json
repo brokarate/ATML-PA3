@@ -1,0 +1,722 @@
+[
+  {
+    "budget": 1,
+    "method": "first",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "vision",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "vision_rwc",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "visconf",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "visconf_rwc",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "tokenwise",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 1,
+    "method": "tokenwise_rwc",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "first",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": 0.006624999999999997,
+    "ci95": [
+      -0.002875000000000001,
+      0.014503124999999997
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": 0.0115,
+    "ci95": [
+      0.003124999999999999,
+      0.019881249999999993
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.0115,
+    "ci95": [
+      0.003124999999999999,
+      0.019881249999999993
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": 0.013749999999999995,
+    "ci95": [
+      0.004746874999999998,
+      0.022628124999999992
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "vision",
+    "reference": "consensus",
+    "mean": 0.007374999999999997,
+    "ci95": [
+      -0.0016281250000000013,
+      0.016253124999999993
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "vision_rwc",
+    "reference": "consensus",
+    "mean": 0.007374999999999997,
+    "ci95": [
+      -0.0016281250000000013,
+      0.016253124999999993
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "visconf",
+    "reference": "consensus",
+    "mean": 0.018124999999999995,
+    "ci95": [
+      0.009125,
+      0.026503124999999995
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "visconf_rwc",
+    "reference": "consensus",
+    "mean": 0.018124999999999995,
+    "ci95": [
+      0.009125,
+      0.026503124999999995
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "tokenwise",
+    "reference": "consensus",
+    "mean": 0.01775,
+    "ci95": [
+      0.009125,
+      0.02587812499999999
+    ]
+  },
+  {
+    "budget": 2,
+    "method": "tokenwise_rwc",
+    "reference": "consensus",
+    "mean": 0.01775,
+    "ci95": [
+      0.009125,
+      0.02587812499999999
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "first",
+    "reference": "consensus",
+    "mean": -0.041375,
+    "ci95": [
+      -0.050003125,
+      -0.03325
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": -0.045,
+    "ci95": [
+      -0.05625,
+      -0.033996875
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": -0.027249999999999996,
+    "ci95": [
+      -0.038003125,
+      -0.016868750000000002
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": -0.010625,
+    "ci95": [
+      -0.018375,
+      -0.0033750000000000013
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": -0.025875,
+    "ci95": [
+      -0.037503125,
+      -0.014625
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "vision",
+    "reference": "consensus",
+    "mean": -0.032125,
+    "ci95": [
+      -0.043878125000000004,
+      -0.02025
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "vision_rwc",
+    "reference": "consensus",
+    "mean": -0.012999999999999998,
+    "ci95": [
+      -0.020999999999999998,
+      -0.005118750000000004
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "visconf",
+    "reference": "consensus",
+    "mean": -0.014874999999999998,
+    "ci95": [
+      -0.025253125000000005,
+      -0.003746875000000002
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "visconf_rwc",
+    "reference": "consensus",
+    "mean": -0.0014999999999999992,
+    "ci95": [
+      -0.009,
+      0.006128124999999999
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "tokenwise",
+    "reference": "consensus",
+    "mean": -0.018875,
+    "ci95": [
+      -0.029875,
+      -0.008246875000000002
+    ]
+  },
+  {
+    "budget": 4,
+    "method": "tokenwise_rwc",
+    "reference": "consensus",
+    "mean": -0.003374999999999999,
+    "ci95": [
+      -0.010756250000000002,
+      0.004625000000000001
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "first",
+    "reference": "consensus",
+    "mean": -0.06225,
+    "ci95": [
+      -0.074125,
+      -0.050625
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": -0.079125,
+    "ci95": [
+      -0.09487812500000001,
+      -0.06312187500000001
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": -0.050625,
+    "ci95": [
+      -0.0662625,
+      -0.035121875000000004
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.0017499999999999996,
+    "ci95": [
+      -0.006259375000000001,
+      0.009625
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": -0.052625000000000005,
+    "ci95": [
+      -0.068125,
+      -0.037625
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "vision",
+    "reference": "consensus",
+    "mean": -0.055,
+    "ci95": [
+      -0.07237500000000001,
+      -0.03911875000000001
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "vision_rwc",
+    "reference": "consensus",
+    "mean": 0.00225,
+    "ci95": [
+      -0.006628125000000002,
+      0.011003124999999999
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "visconf",
+    "reference": "consensus",
+    "mean": -0.035625,
+    "ci95": [
+      -0.050878125,
+      -0.019743750000000004
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "visconf_rwc",
+    "reference": "consensus",
+    "mean": 0.008875,
+    "ci95": [
+      0.0013718750000000013,
+      0.016999999999999998
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "tokenwise",
+    "reference": "consensus",
+    "mean": -0.040999999999999995,
+    "ci95": [
+      -0.056253125,
+      -0.024871875
+    ]
+  },
+  {
+    "budget": 8,
+    "method": "tokenwise_rwc",
+    "reference": "consensus",
+    "mean": 0.010375,
+    "ci95": [
+      0.0027468750000000006,
+      0.018999999999999996
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "first",
+    "reference": "consensus",
+    "mean": -0.07225,
+    "ci95": [
+      -0.08675000000000001,
+      -0.059121875
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": -0.10337500000000001,
+    "ci95": [
+      -0.12450312499999999,
+      -0.0815
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": -0.0585,
+    "ci95": [
+      -0.07900312500000001,
+      -0.037621875
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.004375,
+    "ci95": [
+      -0.003003125,
+      0.012000000000000002
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": -0.06525,
+    "ci95": [
+      -0.086628125,
+      -0.044868750000000006
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "vision",
+    "reference": "consensus",
+    "mean": -0.06825,
+    "ci95": [
+      -0.09,
+      -0.04698750000000001
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "vision_rwc",
+    "reference": "consensus",
+    "mean": 0.0036249999999999993,
+    "ci95": [
+      -0.005874999999999999,
+      0.013503125
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "visconf",
+    "reference": "consensus",
+    "mean": -0.040875,
+    "ci95": [
+      -0.060503125,
+      -0.021371875000000005
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "visconf_rwc",
+    "reference": "consensus",
+    "mean": 0.0095,
+    "ci95": [
+      0.0007499999999999993,
+      0.018128124999999995
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "tokenwise",
+    "reference": "consensus",
+    "mean": -0.051375000000000004,
+    "ci95": [
+      -0.070628125,
+      -0.031996875
+    ]
+  },
+  {
+    "budget": 16,
+    "method": "tokenwise_rwc",
+    "reference": "consensus",
+    "mean": 0.0095,
+    "ci95": [
+      0.0008718749999999996,
+      0.017875
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "first",
+    "reference": "consensus",
+    "mean": -0.08024999999999999,
+    "ci95": [
+      -0.09824999999999999,
+      -0.062371874999999986
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "consensus",
+    "reference": "consensus",
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "logp",
+    "reference": "consensus",
+    "mean": -0.135,
+    "ci95": [
+      -0.16525312499999997,
+      -0.1035
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "certainty",
+    "reference": "consensus",
+    "mean": -0.07,
+    "ci95": [
+      -0.10024999999999999,
+      -0.037621875
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "certainty_rwc",
+    "reference": "consensus",
+    "mean": 0.00875,
+    "ci95": [
+      -0.004253125,
+      0.022503124999999995
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "shortest",
+    "reference": "consensus",
+    "mean": -0.07775,
+    "ci95": [
+      -0.1088875,
+      -0.048496874999999995
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "vision",
+    "reference": "consensus",
+    "mean": -0.08,
+    "ci95": [
+      -0.110009375,
+      -0.048496874999999995
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "vision_rwc",
+    "reference": "consensus",
+    "mean": 0.0125,
+    "ci95": [
+      -0.0031281250000000003,
+      0.029003125
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "visconf",
+    "reference": "consensus",
+    "mean": -0.03875,
+    "ci95": [
+      -0.066375,
+      -0.008496875000000003
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "visconf_rwc",
+    "reference": "consensus",
+    "mean": 0.015,
+    "ci95": [
+      0.0009999999999999998,
+      0.030012499999999987
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "tokenwise",
+    "reference": "consensus",
+    "mean": -0.05375,
+    "ci95": [
+      -0.08125,
+      -0.02175
+    ]
+  },
+  {
+    "budget": 32,
+    "method": "tokenwise_rwc",
+    "reference": "consensus",
+    "mean": 0.01,
+    "ci95": [
+      -0.004124999999999999,
+      0.024503124999999997
+    ]
+  }
+]

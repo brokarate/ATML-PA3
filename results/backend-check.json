@@ -1,0 +1,100 @@
+{
+  "requested_device": "mps",
+  "assignment_experiment": false,
+  "amp": {
+    "autocast_dtype": "torch.float16",
+    "finite_update": true,
+    "overflow_skip": true,
+    "scale_backoff": true,
+    "scaler_resume": true,
+    "rng_resume": true,
+    "optimizer_moments": "float32"
+  },
+  "tiny_qwen": {
+    "checkpointed_backward": true,
+    "fp16_backbone_fp32_adapters": true,
+    "exact_svd_projection": true,
+    "merge_rms": 8.453756890958175e-05,
+    "generation_tokens": 4
+  },
+  "real_model": {
+    "synthetic_inputs": true,
+    "model": "Qwen/Qwen3-0.6B",
+    "microbatch": 2,
+    "sequence_length": 2048,
+    "required_successful_steps": 2,
+    "successful_steps": 2,
+    "attempted_steps": 4,
+    "max_attempts": 12,
+    "initial_scale": 65536.0,
+    "final_scale": 16384.0,
+    "losses": [
+      10.333820343017578,
+      10.333820343017578,
+      10.333820343017578,
+      9.292060852050781
+    ],
+    "skipped_updates": [
+      true,
+      true,
+      false,
+      false
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "loss": 10.333820343017578,
+        "scale_before": 65536.0,
+        "scale_after": 32768.0,
+        "skipped_update": true,
+        "finite_grad_norm": false,
+        "unscaled_grad_norm": null,
+        "probe_parameter": "model.layers.0.self_attn.q_norm.weight",
+        "probe_finite": true,
+        "probe_max_abs_change": 0.0
+      },
+      {
+        "attempt": 2,
+        "loss": 10.333820343017578,
+        "scale_before": 32768.0,
+        "scale_after": 16384.0,
+        "skipped_update": true,
+        "finite_grad_norm": false,
+        "unscaled_grad_norm": null,
+        "probe_parameter": "model.layers.0.self_attn.q_norm.weight",
+        "probe_finite": true,
+        "probe_max_abs_change": 0.0
+      },
+      {
+        "attempt": 3,
+        "loss": 10.333820343017578,
+        "scale_before": 16384.0,
+        "scale_after": 16384.0,
+        "skipped_update": false,
+        "finite_grad_norm": true,
+        "unscaled_grad_norm": 47.90485382080078,
+        "probe_parameter": "model.layers.0.self_attn.q_norm.weight",
+        "probe_finite": true,
+        "probe_max_abs_change": 2.0503997802734375e-05
+      },
+      {
+        "attempt": 4,
+        "loss": 9.292060852050781,
+        "scale_before": 16384.0,
+        "scale_after": 16384.0,
+        "skipped_update": false,
+        "finite_grad_norm": true,
+        "unscaled_grad_norm": 30.70750617980957,
+        "probe_parameter": "model.layers.0.self_attn.q_norm.weight",
+        "probe_finite": true,
+        "probe_max_abs_change": 2.0503997802734375e-05
+      }
+    ],
+    "seconds": 163.0945461250376,
+    "peak_gpu_bytes": 22376792320,
+    "peak_gpu_driver_bytes": 31728992256,
+    "memory_measurement": "sampled MPS high-water marks; lower bounds, not exact peaks",
+    "memory_sampling_interval_seconds": 0.01
+  },
+  "status": "passed"
+}

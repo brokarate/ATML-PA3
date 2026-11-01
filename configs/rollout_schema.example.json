@@ -1,0 +1,27 @@
+{
+  "_instructions": "EXAMPLE ONLY. Replace paths and column values using the supplied README.MD and task3-inspect output. Keys are the internal canonical names. Delete this explanatory key if desired.",
+  "math": {
+    "generations": {"path": "REPLACE_LLM_FOLDER/generations.parquet", "columns": {
+      "dataset": "dataset", "sample_id": "sample_id", "rollout_id": "rollout_id",
+      "text": "REPLACE_TEXT_COLUMN", "token_ids": "REPLACE_TOKEN_IDS_COLUMN",
+      "length": "REPLACE_RETAINED_LENGTH_COLUMN", "extracted_answer": "REPLACE_EXTRACTION_COLUMN", "gold_answer": "REPLACE_GOLD_COLUMN"
+    }},
+    "probability_metrics": {"path": "REPLACE_LLM_FOLDER/probability_metrics.parquet", "columns": {
+      "dataset": "dataset", "sample_id": "sample_id", "rollout_id": "rollout_id", "logp": "logp", "kl_u_p": "kl_u_p"
+    }}
+  },
+  "mathvista": {
+    "generations": {"path": "REPLACE_VLM_FOLDER/generations.parquet", "columns": {
+      "dataset": "dataset", "sample_id": "sample_id", "rollout_id": "rollout_id",
+      "text": "REPLACE_TEXT_COLUMN", "token_ids": "REPLACE_TOKEN_IDS_COLUMN",
+      "length": "REPLACE_RETAINED_LENGTH_COLUMN", "extracted_answer": "REPLACE_EXTRACTION_COLUMN", "gold_answer": "REPLACE_GOLD_COLUMN"
+    }},
+    "probability_metrics": {"path": "REPLACE_VLM_FOLDER/probability_metrics.parquet", "columns": {
+      "dataset": "dataset", "sample_id": "sample_id", "rollout_id": "rollout_id", "logp": "logp", "kl_u_p": "kl_u_p"
+    }},
+    "attention_metrics": {"path": "REPLACE_VLM_FOLDER/attention_metrics.parquet", "columns": {
+      "dataset": "dataset", "sample_id": "sample_id", "rollout_id": "rollout_id",
+      "image_attention": "REPLACE_IMAGE_GROUP_TOTAL", "prompt_attention": "REPLACE_PROMPT_GROUP_TOTAL", "generated_attention": "REPLACE_GENERATED_GROUP_TOTAL"
+    }}
+  }
+}

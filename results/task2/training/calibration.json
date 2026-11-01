@@ -1,0 +1,4 @@
+{
+  "rule": "RMS of first 128 training-caption text embeddings / connector outputs",
+  "scale": 0.054096803069114685
+}

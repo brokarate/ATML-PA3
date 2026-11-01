@@ -1,0 +1,82 @@
+{
+  "training_complete": true,
+  "updates": 1250,
+  "skipped_updates": 0,
+  "nonfinite_final_model_tensors": [],
+  "training_seconds": 38806.793498540996,
+  "first_loss": 1.0278903730213642,
+  "last_loss": 0.1654104485642165,
+  "first_50_mean_loss": 0.3492392600467429,
+  "last_50_mean_loss": 0.18417743206722662,
+  "checkpoints": [
+    {
+      "update": 312,
+      "stored_step": 312,
+      "data_position": 9984,
+      "method": "full",
+      "device": "mps",
+      "revision": "c1899de289a04d12100db370d81485cdf75e47ca",
+      "model_dtype_counts": {
+        "torch.float32": 751632384
+      },
+      "optimizer_state_entries": 310,
+      "resume_fields_complete": true,
+      "matches_training_data": true
+    },
+    {
+      "update": 625,
+      "stored_step": 625,
+      "data_position": 20000,
+      "method": "full",
+      "device": "mps",
+      "revision": "c1899de289a04d12100db370d81485cdf75e47ca",
+      "model_dtype_counts": {
+        "torch.float32": 751632384
+      },
+      "optimizer_state_entries": 310,
+      "resume_fields_complete": true,
+      "matches_training_data": true
+    },
+    {
+      "update": 937,
+      "stored_step": 937,
+      "data_position": 29984,
+      "method": "full",
+      "device": "mps",
+      "revision": "c1899de289a04d12100db370d81485cdf75e47ca",
+      "model_dtype_counts": {
+        "torch.float32": 751632384
+      },
+      "optimizer_state_entries": 310,
+      "resume_fields_complete": true,
+      "matches_training_data": true
+    },
+    {
+      "update": 1250,
+      "stored_step": 1250,
+      "data_position": 40000,
+      "method": "full",
+      "device": "mps",
+      "revision": "c1899de289a04d12100db370d81485cdf75e47ca",
+      "model_dtype_counts": {
+        "torch.float32": 751632384
+      },
+      "optimizer_state_entries": 310,
+      "resume_fields_complete": true,
+      "matches_training_data": true
+    }
+  ],
+  "benchmark_accuracy_evaluated": false,
+  "resources": {
+    "training_seconds": 38806.793498540996,
+    "peak_gpu_bytes": 19853933312,
+    "peak_gpu_driver_bytes": 24655069184,
+    "memory_measurement": "sampled MPS high-water marks; lower bounds, not exact peaks",
+    "memory_sampling_interval_seconds": 0.01,
+    "checkpoint_bytes": 7775312028,
+    "trainable_parameters": 596049920,
+    "reference_transfer_seconds": 0.0,
+    "reference_storage_bytes": 0,
+    "reference_copy_seconds": 8.330680429935455e-07
+  }
+}
